@@ -1103,54 +1103,58 @@ theme: Scherzkeks, 1
 ---
 ^ Ok let's play a game
 
-^ I usually pick a labyrinth style game to follow up with the robot example.
-
-![](images/03-how/code-org/hoc-games.png)
-
----
 ^ In every game there are multiple levels with increasing difficulty.
 
 ^ You slowly introduce conditionals (if-else), loops and new commands.
 
+![](images/03-how/code-org/hoc-games.png)
+
+---
+^ I usually pick a labyrinth style game to follow up with the robot example.
+
 ^ This is the Zombie Level which is an intermediate level.
 
-![fit](images/03-how/code-org/zombie.png)
-
----
-^ Commands are given with colorful blocks and snapped together like in a puzzle.
-
-![](images/03-how/code-org/zombie.png)
-## [fit] _Commands_
-
-![inline](images/03-how/code-org/code-blocks.jpg)
-
----
 ^ The zombie has to be guided to his favorite food.
 
 ^ A sunflower of course!
+
+![fit](images/03-how/code-org/new/zombie-idle.gif)
+
+---
+^ Commands are given with colorful blocks and snapped together like in a puzzle.
 
 ^ You use a simple set of commands to do so.
 
 ^ Like move forward, turn left, turn right
 
-![](images/03-how/code-org/zombie-01.jpg)
+
+![](images/03-how/code-org/zombie.png)
+## [fit] _Commands_
+
+![inline](images/03-how/code-org/new/zombie-snap.gif)
 
 ---
 ^ Kids will usually place one command after the other
 
-^ This results in a huge list
+^ That's their idiomatic version and it's working
+
+^ But it results in a huge list
 
 ^ They can’t even complete the level as they are forced to use a new block. The
  pink one here.
 
-![](images/03-how/code-org/zombie-02.jpg)
+![](images/03-how/code-org/new/zombie-idiomatic.gif)
 
 ---
-^ I then show them the pattern of 4 repeating blocks that you might have seen already.
+^ I then show them the pattern of 4 blocks.
 
 ^ forward, left, forward, right
 
-![200%](images/03-how/code-org/zombie-02.jpg)
+^ and let them refactor their code to something very beautiful.
+
+![](images/03-how/code-org/zombie.png)
+
+![inline](images/03-how/code-org/new/zombie-refactor.gif)
 
 ---
 ^ Et voila- they usually just know what to do.
@@ -1159,7 +1163,7 @@ theme: Scherzkeks, 1
 
 ^ I love this moment. I explain that this is what a computer is for.
 
-![](images/03-how/code-org/zombie-03.jpg)
+![fit](images/03-how/code-org/new/zombie-success.gif)
 
 ---
 ^ The computer should repeat the boring stuff, it's not your task.
@@ -1173,7 +1177,7 @@ theme: Scherzkeks, 1
 
 ^ Scratch can be used as an application and online in the web browser through flash.
 
-^ Scratch 3.0 is in development and will be based on HTML5.
+^ Scratch 3.0 is in active development, based on HTML5 and will be released this August.
 
 ![](images/03-how/scratch/scratch-logo.jpg)
 
@@ -1202,7 +1206,7 @@ theme: Scherzkeks, 1
 
 ^ That’s where the **code will be written**.
 
-![fit](images/03-how/scratch/app-01.png)
+![fit](images/03-how/scratch/app-01-annotated.jpg)
 
 ---
 ^ Did I just say **written**? Nobody expects you to write a thing.
@@ -1211,7 +1215,7 @@ theme: Scherzkeks, 1
 
 ^ That is called block based programming.
 
-![fit](images/03-how/scratch/scratch-blocks.jpg)
+![fit](images/03-how/scratch/new/coolcat.gif)
 
 ---
 
