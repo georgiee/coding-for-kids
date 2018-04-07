@@ -672,6 +672,10 @@ theme: Scherzkeks, 1
 ---
 ^ And everything suddenly makes sense.
 
+# [fit]Everything
+# **_suddenly makes sense_**
+
+---
 ^ It was never about coding only.
 
 ^ When the people say "our kids need to learn coding"
@@ -680,9 +684,9 @@ theme: Scherzkeks, 1
 
 ^ so they can understand the bigger picture, the connecting lines.
 
-# [fit]Everything
-# **_suddenly makes sense_**
-
+# our kids need to learn
+# ~~coding~~
+# [fit] **_technology_**
 ---
 ^ You do this by teaching not only coding.
 
@@ -693,11 +697,10 @@ theme: Scherzkeks, 1
 ^ How algorithms are working
 
 ^ and let them tinker around with electronics.
-
-## [fit] Internet
-## [fit] Robotics
-## [fit] Algorithms
-## [fit] Tinkering
+## Coding
+## **_&_**
+## [fit] Internet, Robotics
+## [fit] Algorithms, Tinkering
 
 ---
 ^ Coding is only one part of understanding technology
@@ -726,20 +729,20 @@ theme: Scherzkeks, 1
 ^ It’s like painting and music but often more accessible and affordable.
 
 # [fit] Coding
-# is like
-# _**painting & music**_
+## is like
+# [fit] _**painting & music**_
 
 ---
 ^ Speaking of affordable. Coding gives you chances.
 
 ^ Computer's are cheap nowadays.
 
-^ Even poor kids in every country could try it.
+^ Even poor kids in every country can try it.
 
 ## [fit] Chances
 
 ---
-^ Diversity. The computer just don't care. Everybody can be a coder.
+^ Diversity. The computer just don't care who you are. Everybody can be a coder.
 
 ## [fit] Diversity
 
@@ -753,9 +756,9 @@ theme: Scherzkeks, 1
 
 ---
 [.background-color: #fdc552]
-^ I hope I have convinced you that teaching coding matters by now
+^ I hope I have convinced you by now why teaching coding matters
 
-^ So let me show you some possibilities how to engage kids with technology and computer science.
+^ So let me show you some possibilities how to teach kids about technology and computer science.
 
 # ~~1. Why it matters~~
 # [fit] _2. how to teach_
@@ -773,23 +776,23 @@ theme: Scherzkeks, 1
 ^ And in coding I will show you how kids can finally dive into programming.
 # _**My favourite toolset**_
 
-# [fit] Tinkering
-# [fit] Robots
-# [fit] Coding
+# [fit] Tinkering, Robots, Coding
 
 ---
+[.background-color: #fdc552]
 ^ Let's have a look at Tinkering.
 
 ^ This is all about playing around with electronics.
 
-# [fit] _Tinkering_
-![](images/03-how/tinkering.jpg)
+## [fit] _Tinkering_
 
 ---
 ^ A drawbot.
 
 ^ This is an toy which every kid starting with 4 years can build.
+## [fit] Drawbot
 
+---
 ^ The parts cost less than 2 EUR
 
 ^ You have three legs made of pens, a battery and a motor with an unbalanced weight rotating.
@@ -798,8 +801,8 @@ theme: Scherzkeks, 1
 
 ^ And then magic happens.
 
-## [fit] Drawbot
-![left fill](images/03-how/drawbot.jpg )
+
+![fit](images/03-how/drawbot.jpg )
 
 ---
 ^ When activated the robot will vibrate
@@ -816,21 +819,25 @@ theme: Scherzkeks, 1
 ![right fill](images/03-how/drawbot.gif)
 
 ---
-^ That's Makey Makey
+^ A Makey Makey
 
 ^ Its simplicity is awesome.
 
 ## [fit] _Makey Makey_
-![left](images/03-how/makeymakey.jpg )
 
 ---
-^ It’s basically a board that simulates keys on your keyboard.
+^ It’s basically a board that pretends to be a keyboard.
 
 ^ You use the alligator clips to connect conductive objects with it
 
+![](images/03-how/makeymakey.jpg )
+
+---
+^ When closing a circuit you virtually press a key
+
 ^ And what can you do with it?
 
-![](images/03-how/makeymakey.jpg )
+![](images/03-how/tinkering/circuit.jpg )
 
 ---
 ^ Well, make a banana piano.
@@ -841,14 +848,12 @@ theme: Scherzkeks, 1
 
 ^ Connect them with Makey Makey
 
-^ And play your bananas instead of the Keyboard
+^ And play your bananas
 
-^ I have one Makey Makey here if someone wants to try it later.
-
-![](images/03-how/haba-banana.jpg )
+![](images/03-how/tinkering/haba-banana.jpg )
 
 ---
-^ Super Mario Controller
+^ A Super Mario Controller
 
 ^ Same here. Find a mario game with keyboard controls
 
@@ -856,20 +861,19 @@ theme: Scherzkeks, 1
 
 ^ Switch from the keyboard to your own device.
 
-![](images/03-how/makey-mario.jpg )
+![](images/03-how/tinkering/makey-markio.gif )
 
 ---
 ^ And another one. Let me introduce you to the Screaming carrot.
 
-^ This time I show you the video.
-
-^ After Video: I love this.
-
-![](https://www.youtube.com/watch?v=o4iTQ7lr2W0&t=20s)
+![fit](images/03-how/tinkering/screaming-carrot.jpg)
 
 ---
+[.background-color: #fdc552]
 ^ Programable Robots!
+## [fit] _Robots_
 
+---
 ^ There are a lot of them out there.
 
 ^ Many of them can be programmed with child friendly programming language.
@@ -877,23 +881,6 @@ theme: Scherzkeks, 1
 ^ Let me show you some.
 
 ![](images/03-how/robot-generic.gif )
-## [fit] _Robots_
-
----
-^ This is Cubetto from Primo. It is intended for very young kids and it's quite expensive with 220 EUR.
-
-^ You program it on the wooden board with colored symbols standing for a direction.
-
-![left](images/03-how/cubetto.jpg)
-## [fit] Cubetto
-## from Primo
-
----
-^ Depending on what was programmed on the controller
-
-^ Cubetto starts moving around on one of the included maps.
-
-![](images/03-how/cubetto.gif)
 
 ---
 ^ That's Ollie and Sphero.
@@ -904,22 +891,25 @@ theme: Scherzkeks, 1
 
 ^ You can drive around with an app or program them.
 
-^ Costs between 50 - 80 EUR
+^ Costs around 80 EUR
 
-# [fit] _OLLIE & Sphero_
+# [fit] OLLIE
+# &
+# [fit] Sphero
 ![left](images/03-how/sphero-and-ollie.png)
 
 ---
 ^ Say hello to Dash & Dot.
 
-^ Those are more complex and expensive (150 - 200) robots.
+^ Those are more complex and expensive robots. Costs around 200 EUR
 
 ^ They have many sensors and can communicate with LEDs and speakers.
 
 ^ You use the apps Wonder or Blockly to program them.
 
-# **Say hello to**
-# [fit] Dash & Dot
+# [fit] Dash
+# &
+# [fit] Dot
 ![left](images/03-how/dash-dot.gif)
 
 ---
@@ -945,12 +935,11 @@ theme: Scherzkeks, 1
 
 ^ It's mbot and I call him the master of all robots.
 
-![](images/03-how/mbot.jpg)
-## [fit] _mbot_
+## [fit] mbot
 ## **_the master of all robots_**
 
 ---
-^ It's made by Makeblock.
+^ He's made by Makeblock.
 
 ^ and based on Arduino uno
 
@@ -1001,9 +990,7 @@ theme: Scherzkeks, 1
 
 ^ So let's play the human robot game.
 
-![](images/03-how/haba-robot.jpg)
-
-## [fit] _The Human Robot_
+## [fit] The Human Robot
 
 ---
 ^ One kid or you dresses up as a robot.
@@ -1016,12 +1003,7 @@ theme: Scherzkeks, 1
 
 ^ Let's begin
 
-![left](images/03-how/robot-costume.jpg)
-# Commands
-##  ⬆️ (forward)
-## ⬅️ ➡️ (turn left-turn right)
-##  ⬇️️ (backward)
-## ✋ stop ✋
+![fill](images/03-how/human-robot.jpg)
 
 ---
 ^ Imagine this task:
@@ -1065,8 +1047,8 @@ theme: Scherzkeks, 1
 
 ^ But wait.
 
-## **_Next_**
-## [fit] Coding Games
+## [fit] Coding
+## [fit] Games
 
 ---
 ^ Some infos about Code.org.
@@ -1086,17 +1068,15 @@ theme: Scherzkeks, 1
 
 ^ Everybody is encouraged to try it out.
 
-## [fit] _Hour of Code_
+## [fit] Hour of Code
 ## **_one-hour tutorials_**
-
-![](images/03-how/code-org/potus.jpg)
 
 ---
 ^ Even a US president.
 
 ^ That's a photo from The White House where they hold an Hour Of Code event in 2014.
 
-^ Hour of Code takes place every year from 4.-10. Dezember.
+^ Hour of Code takes place every year from 4.-10. December.
 
 ![](images/03-how/code-org/potus.jpg)
 
@@ -1107,9 +1087,6 @@ theme: Scherzkeks, 1
 
 ^ You slowly introduce conditionals (if-else), loops and new commands.
 
-![](images/03-how/code-org/hoc-games.png)
-
----
 ^ I usually pick a labyrinth style game to follow up with the robot example.
 
 ^ This is the Zombie Level which is an intermediate level.
@@ -1129,7 +1106,7 @@ theme: Scherzkeks, 1
 
 
 ![](images/03-how/code-org/zombie.png)
-## [fit] _Commands_
+## [fit] _**Commands**_
 
 ![inline](images/03-how/code-org/new/zombie-snap.gif)
 
@@ -1157,7 +1134,7 @@ theme: Scherzkeks, 1
 ![inline](images/03-how/code-org/new/zombie-refactor.gif)
 
 ---
-^ Et voila- they usually just know what to do.
+^ And success! They usually just know what to do.
 
 ^ Pick the loop block and place the repeating pattern inside.
 
@@ -1216,31 +1193,6 @@ theme: Scherzkeks, 1
 ^ That is called block based programming.
 
 ![fit](images/03-how/scratch/new/coolcat.gif)
-
----
-
-## [fit] Scratch Jr.
-^ If your kids are too young you might like Scratch Jr.
-
-^ This is a very reduced scratch targeting kids between 6 and 8 years.
-
-^ It's only using large symbols and you palce it  from left to right.
-
-^ This makes it easier for small children.
-
-![left](images/03-how/scratch/scratchjr.png)
-
----
-^ I also want to quickly mention tickle.
-
-^ This app also uses a block based programming language like in Scratch.
-
-^ And you can control a lot of different robots with it.
-
-^ So it's worth a try if you ever own a robot.
-
-## [fit] Tickle
-![left](images/03-how/tickle-ipad-v4.png)
 
 ---
 [.background-color: #fdc552]

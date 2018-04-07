@@ -22,6 +22,10 @@ This holds my slides in markdown format targeting Deckset
 + [ ] Ablauf Carrot planen (GoPro? Same Device?)
 + [ ] HDMI Cable problems check on macbook
 
+## Carrot Show
+1. Prepare everything in a box then reveeal?
+2. or quickly put everything together on stage ?
+
 ## My Talk Proposal
 This was my accepted talk proposal.
 
