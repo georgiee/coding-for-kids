@@ -13,6 +13,8 @@ This holds my slides in markdown format targeting Deckset
 + ✅ GIF Giga TV
 
 ## Checklist
+1. Buy Drawbot Parts
+
 + [ ] Fallback Video Modem
 + [ ] GIF Zombie Level
 + [ ] Chapter Developer Mentor

@@ -283,7 +283,7 @@ theme: Scherzkeks, 1
 
 ^ A timeline, some layers, a stage and some tools.
 
-![fit](images/01-intro/flash4-stage.png )
+![fit](images/01-intro/flash4-stage.jpg )
 
 ---
 ^ I quickly found the Actions panel.
@@ -760,15 +760,10 @@ theme: Scherzkeks, 1
 # 3. where to teach
 
 ---
-^ I will present you now a list of the tools I love to use when teaching
+^ I will present you now a list of my favourite tools I love to use when teaching
 
-^ There are three different categories
+^ Tinkering, Robots and actual Coding
 
-^ Tinkering is about building stuff
-
-^ Robots is all about programable robots for kids
-
-^ And in coding I will show you how kids can finally dive into programming.
 # _**My favourite toolset**_
 
 # [fit] Tinkering, Robots, Coding
@@ -945,7 +940,7 @@ theme: Scherzkeks, 1
 ![](images/03-how/mbot.jpg)
 
 ---
-^ What's special abput it ? That the kid will assemble it.
+^ What's so special about it ? That the kid will assemble it.
 
 ^ Usuallly within 20mins
 
@@ -1082,7 +1077,7 @@ theme: Scherzkeks, 1
 
 ^ You slowly introduce conditionals (if-else), loops and new commands.
 
-^ I usually pick a labyrinth style game to follow up with the robot example.
+^ I usually pick a labyrinth style game to follow up with the human robot example.
 
 ^ This is the Zombie Level which is an intermediate level.
 
@@ -1235,7 +1230,7 @@ theme: Scherzkeks, 1
 ^ Play games and explain the basics of programming to interested people
 
 ---
-^ Hour of code can be hosted all year, the current week is just meant as the peak of the year.
+^ Hour of code can be hosted all year.
 
 ^ You might even find some Hour of Code in your hometown. Try to join and get in touch with the organizers.
 
@@ -1260,50 +1255,63 @@ theme: Scherzkeks, 1
 ---
 [.background-color: #fdc552]
 
-^ Fine, fine, fine.
-^ But what about me, the teacher? What do I get??
+^ Good. Let's go to the concl..
+# [fit] _Conclu.._
+---
+
+[.background-color: #fdc552]
+
+^ Wait.
+
+^ What about me, the teacher? What do I get??
+
 # _ehh, what about me?_
 # [fit] _Your benefits_
 
 ---
-^ When did you play with toys for no reason the last time?
+^ Well. When did you play with toys for no reason the last time?
 
 ^ It' healthy, it relaxes your mind.
 
 ^ and it entertains the kid inside you.
 
-^ by teaching about coding
+^ By teaching about coding
 
-^ You can play with toys
+^ You are excused to play with toys
 
-^ You can program stupid jokes
+^ You are excused to program stupid jokes
 
-^ You can finally try out Minecraft
+^ And you can finally try out Minecraft
 
 # Entertain
 # [fit] the kid
 # inside you
 
 ---
-^ Thinking about what to make with a MakeyMakey
+^ To think about what to do with a MakeyMakey
 
-^ Create challenging tasks in Minecraft for kids
+^ to create challenging tasks in Minecraft for kids
 
-^ Use Scratch yourself to surprise your Mama, your partner
+^ and to use Scratch for yourself to surprise your Mama on Mother's day.
+
+^ Teaching coding makes you more creative.
 
 # [fit] Be more
 # [fit] creative
+
+---
+greeting cards example
 
 ---
 ^ Mentoring is hard. You have to explain things that are obvious to you.
 
 ^ Did you ever try to explain if & else to your mother?
 
-^ I explain it slowly and repeptive to kids. It's hard.
+^ I explain it slowly and repetetive to kids. It's so hard.
 
 ^ Expect nothing and start from scratch.
 
-^ You have to reflect on the very basics of programming
+^ You have to reflect on the very, very basics of programming
 
 ^ This will help you throughout your whole mentoring career!
 
@@ -1313,8 +1321,21 @@ theme: Scherzkeks, 1
 ---
 ^ Working with kids is fun.
 
+^ I had an amazing time and I was surprised
+
+^ about all the funny ideas they had!
+
 # [fit] Fun
 
+---
+^ Kebap Heist
+
+![fill](images/04-where/kebap-heist.gif)
+
+---
+^ The Pig Road
+
+![fill](images/04-where/pig.jpg)
 
 ---
 [.background-color: #fdc552]
@@ -1404,30 +1425,43 @@ theme: Scherzkeks, 1
 ## [fit] Hour of Code
 
 ---
-^ And don't forget you can always start teaching at home.
+^ Don't forget you can always start teaching at home.
 
 ## [fit] At Home
 
 ---
+^ And make your designer's happy by teaching them a bit about coding.
+
 ## [fit] Office
 
 ---
+^ You have personal benefits by teaching too
+
+
 [.background-color: #fdc552]
 
 # [fit] _You benefit too!_
 
 ---
+^ be a kid again and enjoy playing with toys again
+
 ## [fit] kid again
 
 ---
+^ be creative by creating challenges for the kids and sending scratch greeting cards
+
 ## [fit] be creative
 
 ---
 ^ Supercharge your mentoring skills
+
+^ by thinking about the every basics again
+
 ## [fit] mentoring skills
 
 ---
-^ And hanging around with kids is fun!
+^ And hanging around with kids is fun. I would have never know about the Kebap Heist.
+
 ## [fit] Fun
 
 ---
