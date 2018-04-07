@@ -371,8 +371,7 @@ theme: Scherzkeks, 1
 
 ---
 ^ I want to make a difference and change things
-# [fit] Make
-# **_a_**
+# [fit] Make a
 # [fit] difference
 ---
 ^ That's why I'm teaching kids coding in my spare time
@@ -404,8 +403,8 @@ theme: Scherzkeks, 1
 ^ Let's start with something easy.
 
 # [fit] _1. Why it matters_
-# _2. How to teach_
-# _3. Where to teach_
+# 2. How to teach
+# 3. Where to teach
 
 ---
 ^ We all can describe to a child how a combustion engine works more or less.
@@ -413,20 +412,19 @@ theme: Scherzkeks, 1
 ^ Right?
 
 ![](images/02-why/combustion-engine.jpg )
-# _We can describe kids how a **combustion engine** works_
+# _**combustion engine**_
 
 ---
 ^ We can tell how the human body works.
 
 ![](images/02-why/human-body.jpg )
-# _how the **human body** works_
+# _**human body**_
 
 ---
 ^ But when you a press the play button a youtube video.
 
 ![](images/02-why/youtube-play.jpg )
-# _But when a kid press a **play button** on a video in **youtube**_
-
+# _**youtube play button**_
 ---
 ^ Yeah. What would you tell that kid :)
 
@@ -474,7 +472,7 @@ theme: Scherzkeks, 1
 ---
 ^ It’s a string of 34 letters in ASCII hexadecimal code and translates to ”America Can Code."
 # [fit] 416D65726963612043616E20436F646520
-# [fit] _America Can Code_
+# [fit] _**America Can Code**_
 
 ![fit](images/02-why/ascii-table-hints.png )
 
@@ -492,8 +490,7 @@ theme: Scherzkeks, 1
 
 ^ No matter what, the demand is the same...
 
-# [fit] Fear
-# **_of_**
+# [fit] Fear of
 # [fit] Technology
 
 ---
@@ -516,7 +513,7 @@ theme: Scherzkeks, 1
 
 ^ It goes like this:
 
-# [fit] _The mechanic_
+# [fit] _**The mechanic**_
 ![](images/02-why/mechanic.jpg )
 
 ---
@@ -585,7 +582,7 @@ theme: Scherzkeks, 1
 
 ^ Do you know when the first programming language was invented?
 
-# [fit] **_First_**
+# [fit] First
 # [fit] Programming Language
 
 ---
@@ -685,8 +682,7 @@ theme: Scherzkeks, 1
 ^ so they can understand the bigger picture, the connecting lines.
 
 # our kids need to learn
-# ~~coding~~
-# [fit] **_technology_**
+# [fit]  ~~coding~~ **_technology_**
 ---
 ^ You do this by teaching not only coding.
 
@@ -697,8 +693,7 @@ theme: Scherzkeks, 1
 ^ How algorithms are working
 
 ^ and let them tinker around with electronics.
-## Coding
-## **_&_**
+## Learn Coding &
 ## [fit] Internet, Robotics
 ## [fit] Algorithms, Tinkering
 
@@ -762,7 +757,7 @@ theme: Scherzkeks, 1
 
 # ~~1. Why it matters~~
 # [fit] _2. how to teach_
-# _3. where to teach_
+# 3. where to teach
 
 ---
 ^ I will present you now a list of the tools I love to use when teaching
@@ -823,7 +818,7 @@ theme: Scherzkeks, 1
 
 ^ Its simplicity is awesome.
 
-## [fit] _Makey Makey_
+## [fit] Makey Makey
 
 ---
 ^ It’s basically a board that pretends to be a keyboard.
@@ -1224,28 +1219,7 @@ theme: Scherzkeks, 1
 
 ^ They opened in the beginning of 2017 in Munich after being very successful in Berlin during 2016.
 
-![](images/04-where/haba.jpg)
-# **_Haba_**
-# [fit] _Digitalwerkstatt_
-
----
-^ Today they have two garages in Berlin, they are in Munich and Hamburg
-
-^ In 2018 they will open garages in Frankfurt and Lippstadt.
-
-^ This matches our Sinnerschrader locations surprisingly well.
-
-^ And maybe there is soon one in Prag too to complete the matching.
-
-^ With all those locations there might be a place to teach just around the corner for you!
-
-![left](images/04-where/haba-standorte.png)
-
-# [fit] 2x Berlin
-# [fit] Hamburg
-# [fit] Munich
-# [fit] Frankfurt 2018
-# [fit] Lippstadt 2018
+# [fit] Digitalwerkstatt
 
 ---
 ^ There are regular courses and one-off workshops for children from 5 to 14 years about coding, robotics, stop motion movies, even exploring worlds in Minecraft.
@@ -1255,20 +1229,12 @@ theme: Scherzkeks, 1
 ![fill](images/04-where/haba-gruppe.jpg)
 
 ---
-## [fit] _camps & courses_
-^ Sometimes there are summer camps, app camps or dojos organized by universities or companies
-
-^ Just ask around and keep your eyes opened. I bet you will find an opportunity.
-
-![fill](images/04-where/opentech.jpg)
-
----
-## **_Be a host for_**
-## [fit] _Hour of Code_
+## [fit] Hour of Code
 ^ You could also host an Hour of Code yourself
 
-^ Play games and explain the basics to interested people
+^ Play games and explain the basics of programming to interested people
 
+---
 ^ Hour of code can be hosted all year, the current week is just meant as the peak of the year.
 
 ^ You might even find some Hour of Code in your hometown. Try to join and get in touch with the organizers.
@@ -1280,20 +1246,85 @@ theme: Scherzkeks, 1
 
 ^ You can start teaching your own kids and relatives easily with the tools I have shown you.
 
-![fill](images/04-where/home.jpg)
-
-# _Teach_
-# **_at_**
-# [fit] _home_
+# [fit] At home
 
 ---
+^ You won't believe it but designers, project managers or maybe you client are eager to learn coding too.
+
+^ Start by teaching them the basics
+
+^ They will understand you better the next time you talk about bit & bytes
+
+# [fit] office
+
+---
+[.background-color: #fdc552]
+
+^ Fine, fine, fine.
+^ But what about me, the teacher? What do I get??
+# _ehh, what about me?_
+# [fit] _Your benefits_
+
+---
+^ When did you play with toys for no reason the last time?
+
+^ It' healthy, it relaxes your mind.
+
+^ and it entertains the kid inside you.
+
+^ by teaching about coding
+
+^ You can play with toys
+
+^ You can program stupid jokes
+
+^ You can finally try out Minecraft
+
+# Entertain
+# [fit] the kid
+# inside you
+
+---
+^ Thinking about what to make with a MakeyMakey
+
+^ Create challenging tasks in Minecraft for kids
+
+^ Use Scratch yourself to surprise your Mama, your partner
+
+# [fit] Be more
+# [fit] creative
+
+---
+^ Mentoring is hard. You have to explain things that are obvious to you.
+
+^ Did you ever try to explain if & else to your mother?
+
+^ I explain it slowly and repeptive to kids. It's hard.
+
+^ Expect nothing and start from scratch.
+
+^ You have to reflect on the very basics of programming
+
+^ This will help you throughout your whole mentoring career!
+
+# [fit] Supercharge
+# [fit] your mentor skills
+
+---
+^ Working with kids is fun.
+
+# [fit] Fun
+
+
+---
+[.background-color: #fdc552]
 ^ Why it matters, how to teach and where to teach.
 
 ^ You have a bag full of knowledge now. Use it.
 
 ^ A quick recap of what I have told you
 
-# [fit] Conclusion
+# [fit] _Conclusion_
 
 ---
 [.background-color: #fdc552]
@@ -1307,7 +1338,7 @@ theme: Scherzkeks, 1
 ---
 ^ ... it's about being exposed to technology, computer science and programming.
 
-## [fit] **_exposure_**
+## [fit] exposure
 
 ---
 ^ ...it's about the big picture and connecting the lines between technologies
@@ -1353,7 +1384,7 @@ theme: Scherzkeks, 1
 ^ from the human robot to scratch to unleash their creativity
 
 ## [fit] Coding
-## **_Human robot, Games and Scratch_**
+## **_Human robot, Maze Games and Scratch_**
 
 ---
 [.background-color: #fdc552]
@@ -1364,13 +1395,8 @@ theme: Scherzkeks, 1
 ---
 ^ At Haba Digitalwerkstatt, the place I started with locations around germany
 
-# **_Haba_**
 # [fit] Digitalwerkstatt
 
----
-^ Find a camp or course where you can support
-
-## [fit] Camps & Courses
 
 ---
 ^ Start by hosting yourself a hour of code event
@@ -1380,14 +1406,37 @@ theme: Scherzkeks, 1
 ---
 ^ And don't forget you can always start teaching at home.
 
-## [fit] Home
+## [fit] At Home
 
 ---
+## [fit] Office
+
+---
+[.background-color: #fdc552]
+
+# [fit] _You benefit too!_
+
+---
+## [fit] kid again
+
+---
+## [fit] be creative
+
+---
+^ Supercharge your mentoring skills
+## [fit] mentoring skills
+
+---
+^ And hanging around with kids is fun!
+## [fit] Fun
+
+---
+[.background-color: #fdc552]
 ^ One last thing I want to tell
 
 ^ I still remember my very first time I teached kids in the Digitalwerkstatt.
 
-# [fit] **_One last thing_**
+# [fit] _One last thing_
 
 ---
 ^ The glowing in their eyes when they connected the pieces and finally understood what I teached them.
