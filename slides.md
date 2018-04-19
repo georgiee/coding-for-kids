@@ -631,7 +631,7 @@ theme: Scherzkeks, 1
 ![](images/02-why/homer-programmer-2.gif )
 
 ---
-^ So if coding is such an easy word
+^ If coding is such an easy word
 
 ^ Let’s try a thesis.
 
@@ -641,10 +641,27 @@ theme: Scherzkeks, 1
 ---
 [.header: text-scale(0.5)]
 ^ When people talk about coding they actually mean technology.
+
 ## When people talk about
 # [fit] **_coding_**
 ## they actually mean
 # [fit] **_technology_**
+
+---
+^ And they demand our kids not to learn coding
+
+^ they actually say "our kids need to learn technology"
+
+^ so they can understand the bigger picture, the connecting lines.
+
+# our kids need to learn
+# [fit]  ~~coding~~ **_technology_**
+
+---
+^ And the whole coding discussion suddenly makes sense.
+
+# [fit] The Discussion
+# **_suddenly makes sense_**
 
 ---
 <!-- -- via kidscodecs.com -->
@@ -664,23 +681,7 @@ theme: Scherzkeks, 1
 
 ![](images/02-why/magic.jpg)
 
----
-^ And everything suddenly makes sense.
 
-# [fit]Everything
-# **_suddenly makes sense_**
-
----
-^ It was never about coding only.
-
-^ When the people say "our kids need to learn coding"
-
-^ they actually say "our kids need to learn technology"
-
-^ so they can understand the bigger picture, the connecting lines.
-
-# our kids need to learn
-# [fit]  ~~coding~~ **_technology_**
 ---
 ^ You do this by teaching not only coding.
 
@@ -691,30 +692,20 @@ theme: Scherzkeks, 1
 ^ How algorithms are working
 
 ^ and let them tinker around with electronics.
-## Learn Coding &
+## **_Learn Coding but also:_**
 ## [fit] Internet, Robotics
 ## [fit] Algorithms, Tinkering
 
 ---
-^ Coding is only one part of understanding technology
+^ Teaching Coding still makes sense
+
+^ It's only one part of understanding technology
 
 ^ but you benefit in many ways when you learn to code.
 
-## [fit] **_Benefits_**
-## of
-## [fit] Coding
+## [fit] **_Learning to Code_**
+## still makes sense
 
----
-^ If you can code
-
-^ you make the transition from being a consumer
-
-^ to a producer, who can create its own
-
-^ animations, tools or games
-
-## [fit] **_be a producer_**
-## not a consumer
 ---
 ^ It stretches your mind
 
@@ -724,9 +715,18 @@ theme: Scherzkeks, 1
 -- Bill Gates
 
 ---
-^ Coding boosts your creativity.
+^ As a coder
 
-^ You can create worlds in the computer, you can try out ideas, you can tell stories.
+^ you make the transition from being a consumer
+
+^ to a producer, who can create its own
+
+^ worlds in the computer, try out ideas and tell stories.
+
+## [fit] **_be a producer_**
+## not a consumer
+
+---
 
 ^ The room for creativity is endless.
 
@@ -753,9 +753,10 @@ theme: Scherzkeks, 1
 ---
 ^ And coding gives your child another perspective about dreamjobs.
 
-^ Just look at me. I wanted to be a policeman first, than a stockbroker to get rich
+^ Just look at me. I wanted to be a policeman first, then a fireman
 
 ^ and now the coding kid became a programmer by watching TV.
+
 ## [fit] Perspective
 
 ---
@@ -864,6 +865,8 @@ theme: Scherzkeks, 1
 
 ---
 ^ And another one. Let me introduce you to the Screaming carrot.
+
+^ [LIVE CODING NOW]
 
 ![fit](images/03-how/tinkering/screaming-carrot.jpg)
 
@@ -1040,14 +1043,17 @@ theme: Scherzkeks, 1
 
 ^ Let’s play some coding games on code.org.
 
+## [fit] Coding
+## [fit] Games
+---
+
 ^ Those games are themed after kid’s darlings like Ice Princess Elsa, Minecraft or Angry Birds.
 
 ^ And they teach them principals of programming while playing.
 
 ^ But wait.
 
-## [fit] Coding
-## [fit] Games
+![fill](images/03-how/hoc-overview.png)
 
 ---
 ^ Some infos about Code.org.
@@ -1116,8 +1122,9 @@ theme: Scherzkeks, 1
 
 ^ But it results in a huge list
 
-^ They can’t even complete the level as they are forced to use a new block. The
- pink one here.
+^ They can’t even complete the level as they are forced to use a new block.
+
+^ The pink one here.
 
 ![](images/03-how/code-org/new/zombie-idiomatic.gif)
 
@@ -1158,7 +1165,7 @@ theme: Scherzkeks, 1
 ![](images/03-how/scratch/scratch-logo.jpg)
 
 ---
-^ Scratch is the holy grail of kids programming.
+^ Scratch is the most famous tool for kids programming.
 
 ^ It’s a programming language invented by Mitchel Resnick at the MIT Media Lab.
 
@@ -1253,7 +1260,7 @@ theme: Scherzkeks, 1
 # [fit] At home
 
 ---
-^ You won't believe it but designers, project managers or maybe you client are eager to learn coding too.
+^ You won't believe it but designers, project managers or maybe your clients are eager to learn coding too.
 
 ^ Start by teaching them the basics
 
@@ -1280,50 +1287,44 @@ theme: Scherzkeks, 1
 ---
 ^ Well. When did you play with toys for no reason the last time?
 
-^ It' healthy, it relaxes your mind.
+^ It's healthy and relaxes your mind.
 
-^ and it entertains the kid inside you.
+^ It entertains the kid inside you.
 
-^ By teaching about coding
-
-^ You are excused to play with toys
-
-^ You are excused to program stupid jokes
-
-^ And you can finally try out Minecraft
+^ And you have finally an excuse to finally learn to play Minecraft
 
 # Entertain
 # [fit] the kid
 # inside you
 
 ---
-^ To think about what to do with a MakeyMakey
+^ Teaching coding makes not only the kids but you creative.
 
-^ to create challenging tasks in Minecraft for kids
+^ You need to create challenging tasks in Minecraft for kids
 
-^ and to use Scratch for yourself to surprise your Mama on Mother's day.
+^ You need to think about what to do with a MakeyMakey
 
-^ Teaching coding makes you more creative.
+
 
 # [fit] Be more
 # [fit] creative
 
 ---
 
+^ And maybe you will use Scratch for yourself to surprise someone special on their birthday.
+
 ![fit](images/benefits/greetings-01.gif)
 
 ---
-^ Mentoring is hard. You have to explain things that are obvious to you.
+^ Did you ever try to explain if & else to kids or your parents?
 
-^ Did you ever try to explain if & else to your mother?
-
-^ I explain it slowly and repetetive to kids. It's so hard.
-
-^ Expect nothing and start from scratch.
+^ Yes it's very difficult.
 
 ^ You have to reflect on the very, very basics of programming
 
-^ This will help you throughout your whole mentoring career!
+^ But once you have mastered this.
+
+^ It will help you throughout your whole mentoring career!
 
 # [fit] Supercharge
 # [fit] your mentor skills
@@ -1343,9 +1344,9 @@ theme: Scherzkeks, 1
 ![fill](images/04-where/kebap-heist.gif)
 
 ---
-^ The Pig Road
+^ The unicorn super horse
 
-![fill](images/04-where/pig.jpg)
+![fill](images/04-where/unicorn.gif)
 
 ---
 [.background-color: #fdc552]
@@ -1412,7 +1413,9 @@ theme: Scherzkeks, 1
 ---
 ^ and by playing hour of code on code.org you make the transition
 
-^ from the human robot to scratch to unleash their creativity
+^ from the human robot and to zombie maze games to scratch
+
+^ to unleash their creativity
 
 ## [fit] Coding
 ## **_Human robot, Maze Games and Scratch_**
@@ -1453,24 +1456,29 @@ theme: Scherzkeks, 1
 # [fit] _You benefit too!_
 
 ---
-^ be a kid again and enjoy playing with toys again
+^ be a kid again and enjoy playing with toys
 
 ## [fit] kid again
 
 ---
-^ be creative by creating challenges for the kids and sending scratch greeting cards
+^ be creative by creating challenges for the kids
+
+^ and create your own scratch birhtday cards
 
 ## [fit] be creative
 
 ---
 ^ Supercharge your mentoring skills
 
-^ by thinking about the every basics again
+^ by thinking about the coding basics again
 
 ## [fit] mentoring skills
 
 ---
-^ And hanging around with kids is fun. I would have never know about the Kebap Heist.
+^ And hanging around with kids is fun.
+
+^ I would have never know about the Kebap Heist.
+
 
 ## [fit] Fun
 

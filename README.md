@@ -18,14 +18,18 @@ This holds my slides in markdown format targeting Deckset
 + Makey Makey
 + Clicker Remote
 
+## Todo
++ Stage/Editor Schrift falsch bei Scratch
++ Stupid Jokes example? (ENtertain the kid inside you)
+
 ## Checklist
 1. Buy Drawbot Parts
-
++ [ ] Check moderator being a robot.
 + [ ] Fallback Video Modem
 + [ ] Fallback Video Carrot
 + [ ] Ablauf Carrot planen (GoPro? Same Device?)
 + [ ] HDMI Cable problems check on macbook
-+ [ ] Check Volume Mode Example 
++ [ ] Check Volume Mode Example
 + [x] GIF Zombie Level
 + [x] Chapter Developer Mentor
 + [x] Replace crazy, guy and madness
@@ -74,7 +78,7 @@ Top:
 - Slides
 - schön langsam gesprochen und deutlich
 - einfache sprache verwendet, sehr gut.
-- jokes 
+- jokes
 - Banana Piano
 - Recap!!!
 
@@ -83,11 +87,11 @@ Top:
 Verbesserung
 OK - Madness & Crazy raus - trigger
 OK - Intro - about you fehlt
-- Kids pictures unerkennbar machen
+OK - Kids pictures unerkennbar machen
 - Angela Merkel, who?
 OK - Gelbeschrift manchmal ohne schatten (Slides vereinheitlichen)
-- slide wo du sagst “add some guy” nehm person
-- Film bei coding blocks statt images
+OK- slide wo du sagst “add some guy” nehm person
+OK- Film bei coding blocks statt images
 - Holygrale anderes wort nutzen, ist sehr abgenutzt derzeit
 - Thanks slide mehr ausfüllen (mit Kontakt möglichkeiten und dazu sagen wenn jemand interesse hat einfach auf dich zu kommen etc.)
 
