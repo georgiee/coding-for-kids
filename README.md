@@ -12,17 +12,24 @@ This holds my slides in markdown format targeting Deckset
 + ✅ Emojis kids heads
 + ✅ GIF Giga TV
 
+## Conf Bag
++ Robot mbot
++ Some drawbots
++ Makey Makey
++ Clicker Remote
+
 ## Checklist
 1. Buy Drawbot Parts
 
 + [ ] Fallback Video Modem
-+ [ ] GIF Zombie Level
-+ [ ] Chapter Developer Mentor
-+ [ ] Replace crazy, guy and madness
-+ [ ] Emojis on Kids Faces
 + [ ] Fallback Video Carrot
 + [ ] Ablauf Carrot planen (GoPro? Same Device?)
 + [ ] HDMI Cable problems check on macbook
++ [ ] Check Volume Mode Example 
++ [x] GIF Zombie Level
++ [x] Chapter Developer Mentor
++ [x] Replace crazy, guy and madness
++ [x] Emojis on Kids Faces
 
 ## SHow Idas
 ### Show Carrot
@@ -59,3 +66,30 @@ Learned coding with flash as a kid.
 Programed with Flash as a Freelancer for 15 years.
 Today I'm a Frontend developer for Angular & React
 In my spare time I teach coding to kids, love to tinker around with webgl and love to fold complex Origami.
+
+
+### Notes
+Top:
+- Alter der Kinder erwähnt
+- Slides
+- schön langsam gesprochen und deutlich
+- einfache sprache verwendet, sehr gut.
+- jokes 
+- Banana Piano
+- Recap!!!
+
+
+
+Verbesserung
+OK - Madness & Crazy raus - trigger
+OK - Intro - about you fehlt
+- Kids pictures unerkennbar machen
+- Angela Merkel, who?
+OK - Gelbeschrift manchmal ohne schatten (Slides vereinheitlichen)
+- slide wo du sagst “add some guy” nehm person
+- Film bei coding blocks statt images
+- Holygrale anderes wort nutzen, ist sehr abgenutzt derzeit
+- Thanks slide mehr ausfüllen (mit Kontakt möglichkeiten und dazu sagen wenn jemand interesse hat einfach auf dich zu kommen etc.)
+
+
+ich erklär dann kurz das sinnerschrader eine agentur in deutschland ist mit mehreren standorten (auch einer in prag) das ich viele meetups mache

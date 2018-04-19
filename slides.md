@@ -232,11 +232,11 @@ theme: Scherzkeks, 1
 
 ^ This means getting up as early as possible
 
-^ and watching series like Captain Future, Duck Tales or the gummybears.
+^ and watching series like Saber Rider, Captain Future, Duck Tales or the gummybears.
 
 ^ Around lunch time..
 
-![](images/01-intro/captainfuture.jpg)
+![](images/01-intro/saber-rider.gif)
 
 ---
 ^ .. I watched Giga TV again.
@@ -439,24 +439,24 @@ theme: Scherzkeks, 1
 ---
 ^ ...teaching - coding - to - kids-
 
-^ The whole world is crazy about it.
+^ The whole world is talking about it.
 
 ^ Just listen carefully to media, hear parents talking, teachers demanding and politicians promising.
 
 ^ And even me, standing here, talking to you, is selling it as the solution for the play button thing.
 
-> _"teaching **coding** to kids"_
+> _"teaching - coding - to - kids"_
 -- mentioned by media, parents, teachers, politicians, well even me standing here
 
 ---
 ^ New York's former major Bloomberg even had a new year resolution promising to take coding courses.
 
-![fit](images/02-why/new-year-resolution.jpg )
+![fill](images/02-why/new-year-resolution.jpg )
 
 ---
 ^ Angela Merkel is talking about coding as the new literacy for young people besides reading, writing and math.
 
-> _**"coding is the new literacy for young people"**_
+> "coding is the new literacy for young people"
 -- Bundeskanzlerin Merkel, Digitalkonferenz, 2016 (liberally translated)
 
 ![fit](images/02-why/merkel.jpg )
@@ -471,10 +471,8 @@ theme: Scherzkeks, 1
 
 ---
 ^ It’s a string of 34 letters in ASCII hexadecimal code and translates to ”America Can Code."
-# [fit] 416D65726963612043616E20436F646520
-# [fit] _**America Can Code**_
 
-![fit](images/02-why/ascii-table-hints.png )
+![fit](images/02-why/america-code-annotated.jpg )
 
 ---
 ^ All that shows that something is going on.
@@ -688,7 +686,7 @@ theme: Scherzkeks, 1
 
 ^ but also how the internet is functioning
 
-^ how a roboter is build and controlled
+^ how a robot is build and controlled
 
 ^ How algorithms are working
 
@@ -706,6 +704,17 @@ theme: Scherzkeks, 1
 ## of
 ## [fit] Coding
 
+---
+^ If you can code
+
+^ you make the transition from being a consumer
+
+^ to a producer, who can create its own
+
+^ animations, tools or games
+
+## [fit] **_be a producer_**
+## not a consumer
 ---
 ^ It stretches your mind
 
@@ -1300,7 +1309,8 @@ theme: Scherzkeks, 1
 # [fit] creative
 
 ---
-greeting cards example
+
+![fit](images/benefits/greetings-01.gif)
 
 ---
 ^ Mentoring is hard. You have to explain things that are obvious to you.
