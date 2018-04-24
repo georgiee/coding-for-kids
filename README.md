@@ -18,9 +18,14 @@ This holds my slides in markdown format targeting Deckset
 + Makey Makey
 + Clicker Remote
 
-## Todo
+## Todo/Fixes
++ 28min ohne Karotte
 + Stage/Editor Schrift falsch bei Scratch
 + Stupid Jokes example? (ENtertain the kid inside you)
++ coding slide bei dash dot raus
++ haba digitalwekrstatt viel zu viel text, subsidiary usw raus.
++ kebap heist rausnehmen - einhorn drinnen lassen
+
 
 ## Checklist
 1. Buy Drawbot Parts
@@ -97,3 +102,8 @@ OK- Film bei coding blocks statt images
 
 
 ich erklär dann kurz das sinnerschrader eine agentur in deutschland ist mit mehreren standorten (auch einer in prag) das ich viele meetups mache
+
+
+
+## Notes
+coding, the new literacy

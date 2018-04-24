@@ -58,33 +58,17 @@ theme: Scherzkeks, 1
 # [fit] Place
 
 ---
-^ I buy there a lof of magazines. Like Club Nintendo, PC Games and Total!
+^ I buy there a lof of magazines. Like Club Nintendo, ct and Total!
 
-^ Those are magazines about consoles.
+^ Those are magazines about consoles and computers
+
+^ This must have been a really expensive time for my parents.
 
 ^ I bet some people here recognize those magazines.
 
 ![fill](images/01-intro/magazin/01-nintendo.jpg)
-![fill](images/01-intro/magazin/01-pcgames.jpg)
-![fill](images/01-intro/magazin/01-total.jpg)
-
----
-^ It's 1995 now
-
-^ and I'm buying even more magazines.
-
-# [fit] **_1995_**
-# [fit] Still a Hoarder
----
-^ In addition to the gaming magazines
-
-^ I also get those about computers like PC Welt, Chip and Ct.
-
-^ This must have been a really expensive time for my parents.
-
-![fill](images/01-intro/magazin/02-pcwelt.jpg)
-![fill](images/01-intro/magazin/02-chip.jpg)
 ![fill](images/01-intro/magazin/02-ct.jpg)
+![fill](images/01-intro/magazin/01-total.jpg)
 
 ---
 ^ Most magazines had some CD attached.
@@ -103,14 +87,12 @@ theme: Scherzkeks, 1
 
 ^ as I didn't even owned a computer.
 
-^ But I still grew to a young computer expert for my family.
-
 ![fit](images/01-intro/paperboard-computer.jpg)
 
 ---
-^ I only got in touch with real computers when visiting my friends to play games
+^ I only got in touch with real computers
 
-^ Or when my older sister took me in her agency office.
+^ when my older sister took me in her agency office.
 
 ^ There I had the opportunity to tinker around on a Mac running the wonderful OS 9.
 
@@ -121,9 +103,7 @@ theme: Scherzkeks, 1
 ---
 ^ I created dozens of those galaxy spirals.
 
-^ By using a combination of cloud effect, swirl, lightning effect and lens flare.
-
-^ Whatever the kid would find in the effects section
+^ Whatever the kid would find in the filter effects section
 
 ![fill](images/01-intro/universe.jpg)
 
@@ -135,7 +115,7 @@ theme: Scherzkeks, 1
 ---
 ^ Actually I had to wait until Christmas 1997.
 
-^ It's now three years since I bought my first computer magazine.
+^ It's now three years since I bought my first magazine.
 
 ![fit](images/01-intro/xmas-monitor-tree.jpg)
 
@@ -441,12 +421,8 @@ theme: Scherzkeks, 1
 
 ^ The whole world is talking about it.
 
-^ Just listen carefully to media, hear parents talking, teachers demanding and politicians promising.
-
-^ And even me, standing here, talking to you, is selling it as the solution for the play button thing.
-
 > _"teaching - coding - to - kids"_
--- mentioned by media, parents, teachers, politicians, well even me standing here
+-- everybody talks like this
 
 ---
 ^ New York's former major Bloomberg even had a new year resolution promising to take coding courses.
@@ -454,7 +430,7 @@ theme: Scherzkeks, 1
 ![fill](images/02-why/new-year-resolution.jpg )
 
 ---
-^ Angela Merkel is talking about coding as the new literacy for young people besides reading, writing and math.
+^ Germany's Bundeskanzlerin Angela Merkel is talking about coding as the new literacy for young people besides reading, writing and math.
 
 > "coding is the new literacy for young people"
 -- Bundeskanzlerin Merkel, Digitalkonferenz, 2016 (liberally translated)
@@ -567,7 +543,7 @@ theme: Scherzkeks, 1
 # OR..
 
 ---
-^ What if the **word coding**, that is used so inflationary **is just blatantly wrong** ?
+^ What if the **word coding** is a mistake and born out of **confusion**?
 # [fit] ~~coding~~
 
 ---
@@ -633,6 +609,8 @@ theme: Scherzkeks, 1
 ---
 ^ If coding is such an easy word
 
+^ Maybe that's why it's mixed up.
+
 ^ Let’s try a thesis.
 
 # Let's try a
@@ -648,7 +626,7 @@ theme: Scherzkeks, 1
 # [fit] **_technology_**
 
 ---
-^ And they demand our kids not to learn coding
+^ And people demand our kids not to learn coding
 
 ^ they actually say "our kids need to learn technology"
 
@@ -666,7 +644,9 @@ theme: Scherzkeks, 1
 ---
 <!-- -- via kidscodecs.com -->
 
-^ It's now about exposure to technology, computer and programming
+^ It's not about coding anymore
+
+^ It's about exposure to technology, computer and programming
 
 ^ Most of the kids will never be a coder anyway.
 
@@ -727,7 +707,6 @@ theme: Scherzkeks, 1
 ## not a consumer
 
 ---
-
 ^ The room for creativity is endless.
 
 ^ It’s like painting and music but often more accessible and affordable.
@@ -1088,10 +1067,6 @@ theme: Scherzkeks, 1
 ---
 ^ Ok let's play a game
 
-^ In every game there are multiple levels with increasing difficulty.
-
-^ You slowly introduce conditionals (if-else), loops and new commands.
-
 ^ I usually pick a labyrinth style game to follow up with the human robot example.
 
 ^ This is the Zombie Level which is an intermediate level.
@@ -1099,6 +1074,11 @@ theme: Scherzkeks, 1
 ^ The zombie has to be guided to his favorite food.
 
 ^ A sunflower of course!
+
+^ In every game there are multiple levels with increasing difficulty.
+
+^ You slowly introduce conditionals (if-else), loops and new commands.
+
 
 ![fit](images/03-how/code-org/new/zombie-idle.gif)
 

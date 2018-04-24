@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="83px" height="83px" viewBox="0 0 83 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>jsconf-logo-full</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="jsconf-logo-full" fill-rule="nonzero">
+            <path d="M5.28,82.49 L77.87,82.49 C80.5925088,82.4629084 82.7929084,80.2625088 82.82,77.54 L82.82,5 C82.8201371,2.2579852 80.6118777,0.0274201446 77.87,0 L5.28,0 C2.54203616,0.0328579248 0.339802845,2.26183901 0.34,5 L0.34,77.54 C0.366993815,80.258663 2.56139711,82.4575084 5.28,82.49" id="Shape" fill="#E10079"></path>
+            <path d="M37.66,43.31 C41.7090784,39.2826449 48.2509216,39.2826449 52.3,43.31 C54.2209239,41.3304889 56.8616649,40.2133513 59.62,40.2133513 C62.3783351,40.2133513 65.0190761,41.3304889 66.94,43.31 C71.07,47.43 71.07,53.62 66.74,58.15 L52.51,72.38 L38.28,58.15 C33.54,53.82 33.54,47.43 37.66,43.31" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
