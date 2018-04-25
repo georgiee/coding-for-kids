@@ -1,7 +1,9 @@
 theme: Scherzkeks, 1
 [.header: text-scale(0.5)]
 
-^ Welcome to my talk Teaching coding to kids - why it matters and how to do it.
+^ Welcome to my talk
+
+^ About CODING KIDS and SCREAMING CARROTS
 
 ^ And just to make sure. In this presentation we talk about kids in the age of 6-12 years.
 
@@ -31,7 +33,7 @@ theme: Scherzkeks, 1
 # [fit] *The coding kid*
 
 ---
-^ So that you have some inner picture. That's me. I'm ten years old.
+^ To make sure you have some inner picture. That's me. I'm ten years old.
 
 ![left](images/01-intro/me.jpg)
 # [fit] That's me
@@ -45,7 +47,7 @@ theme: Scherzkeks, 1
 ## [fit] Magazine Hoarder
 
 ---
-^ At that time I love to play with my Super Nintendo and my Sega Game Gear.
+^ At that time I love to play with my Super Nintendo and Sega Game Gear.
 
 ![fill](images/01-intro/my-snes.jpg)
 ![fill](images/01-intro/gamegear.jpg)
@@ -819,33 +821,9 @@ theme: Scherzkeks, 1
 ![](images/03-how/tinkering/circuit.jpg )
 
 ---
-^ Well, make a banana piano.
+^ A Screaming carrot of course!
 
-^ Find some piano game where you can play with your keyboard keys.
-
-^ Each banana will represent a single key on the keyboard
-
-^ Connect them with Makey Makey
-
-^ And play your bananas
-
-![](images/03-how/tinkering/haba-banana.jpg )
-
----
-^ A Super Mario Controller
-
-^ Same here. Find a mario game with keyboard controls
-
-^ Build your own controller with play dooh - which is suprisingly conductive.
-
-^ Switch from the keyboard to your own device.
-
-![](images/03-how/tinkering/makey-markio.gif )
-
----
-^ And another one. Let me introduce you to the Screaming carrot.
-
-^ [LIVE CODING NOW]
+^ I will switch now into my development environment for a quick live coding session
 
 ![fit](images/03-how/tinkering/screaming-carrot.jpg)
 
@@ -882,11 +860,9 @@ theme: Scherzkeks, 1
 ---
 ^ Say hello to Dash & Dot.
 
-^ Those are more complex and expensive robots. Costs around 200 EUR
+^ Those are more complex and expensive robots
 
-^ They have many sensors and can communicate with LEDs and speakers.
-
-^ You use the apps Wonder or Blockly to program them.
+^ with many sensors and they can communicate with LEDs and speakers.
 
 # [fit] Dash
 # &
@@ -894,7 +870,7 @@ theme: Scherzkeks, 1
 ![left](images/03-how/dash-dot.gif)
 
 ---
-^ The wonder app is about exploring and adventures.
+^ In their wonder app about everything is about exploring and adventures.
 
 ^ You don't create programs but you solve missions.
 
@@ -903,9 +879,7 @@ theme: Scherzkeks, 1
 ![fit](images/03-how/wonder-app.jpg)
 
 ---
-^ On the other hand there is Blockly.
-
-^ Blockly offers more of a coding experience by using blocks with text to make programs.
+^ There is also an app where you have more of a coding experience.
 
 ^ This gives the kid a focus on their own creativity.
 
@@ -1202,18 +1176,18 @@ theme: Scherzkeks, 1
 # [fit] teach
 
 ---
-^ I started teaching coding to kids in my spare time exactly a year ago at Haba Digitalwerkstatt.
-
-^ Haba is a famous toy manufacturer in Germany. Digitalwerkstatt is a 100% subsidiary of them.
+^ I started teaching coding to kids in my spare time exactly one and a half year ago at Haba Digitalwerkstatt.
 
 ^ Digitalwerkstatt translates to digital garage.
 
-^ They opened in the beginning of 2017 in Munich after being very successful in Berlin during 2016.
+^ They started in Berlin in 2016 and opened their office in Munich in 2017
 
 # [fit] Digitalwerkstatt
 
 ---
-^ There are regular courses and one-off workshops for children from 5 to 14 years about coding, robotics, stop motion movies, even exploring worlds in Minecraft.
+^ There are regular courses and one-off workshops for children from 5 to 14 years
+
+^ Their program is about coding, robotics, stop motion movies and exploring worlds in Minecraft.
 
 ^ If you want to try it, just drop them a mail like I did.
 
@@ -1317,11 +1291,6 @@ theme: Scherzkeks, 1
 ^ about all the funny ideas they had!
 
 # [fit] Fun
-
----
-^ Kebap Heist
-
-![fill](images/04-where/kebap-heist.gif)
 
 ---
 ^ The unicorn super horse
@@ -1457,7 +1426,7 @@ theme: Scherzkeks, 1
 ---
 ^ And hanging around with kids is fun.
 
-^ I would have never know about the Kebap Heist.
+^ I would have never know about the unicorn super horse
 
 
 ## [fit] Fun

@@ -52,6 +52,30 @@ MC: Spins
 ME: Explaining
 Someone? STOOOOP
 
+
+
+
+## Live Coding
+My coding environment is called Scratch
+and I will show you more of it later in the talk.
+
+Now let's focus on the screaming carrot.
+Here I have a breadboard, a carrot, a kitchen knife and the MakeyMakey device.
+
+1. The MakeyMakey has different contact points labelled with the simulated key it will press
+2. Here is the contact for the SPACE key.
+3. I will now connect the carrot to the SPACE key
+4. I want to close the circuit when I touch the carrot with the knife
+5. To do so I will connect to knife with the GROUND bar on the MakeyMakey
+6. Let's connect the MakeyMakey through USB. The blinking shows it's ready now
+7. If I touch the carrot with the knife you see a LED glowing at the SPACE contact
+8. I also prepared a visual that shows itself then
+8. This means everything is working. And what do we do with it?
+9. Let us cut the carrot and make it scream
+10. The ony thing to do is to play a horrible scream instead of showing the visual
+11. Let's assign a fitting sound
+12. And now start cutting the carrot.
+
 ## My Talk Proposal
 This was my accepted talk proposal.
 
