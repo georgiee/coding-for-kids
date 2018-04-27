@@ -15,18 +15,35 @@ theme: Scherzkeks, 1
 # [fit] _**Screaming Carrots**_
 
 ---
-# [fit] About me
+^ I'm Georgios Kaleadis
+
+^ I'm living in Munich and I'm a Principal Developer for Sinnerschrader
+
+^ In my spare time I teach coding to kids
+
+^ which inspired me so much and brought me to this stage today.
+
+^ I'm also Origami addicted...
+
+# [fit] Georgios Kaleadis
 + Living in Munich, Germany
-+ Principal Developer for Sinnerschrader
-+ Origami Addicted
++ Principal Frontend Developer for Sinnerschrader
 + Kids Coding Trainer
++ Origami addicted
+
+---
+^ ...because Takeshi taught it to me in front of Osaka castle two years ago.
+
+^ Today I fold every day and I also created
+
+^ a project about virtual origami folding called Origamizake.
+
+![fit](images/about.jpg)
 
 ---
 [.background-color: #fdc552]
 
-^ Let's go back to me as the coding kid.
-
-^ I'm not the youngest anymore and nostalgia fun is guaranteed.
+^ Let's start with some nostalgia fun. Me the coding kid.
 
 # [fit] *Nostalgia Fun*
 ## *with*
@@ -56,28 +73,14 @@ theme: Scherzkeks, 1
 ^ My favourite place to be, month by month, is the store with the huge shelf of magazines.
 
 ![left fill](images/01-intro/shelves-magazine.jpg)
-# [fit] Favourite
-# [fit] Place
-
----
-^ I buy there a lof of magazines. Like Club Nintendo, ct and Total!
-
-^ Those are magazines about consoles and computers
-
-^ This must have been a really expensive time for my parents.
-
-^ I bet some people here recognize those magazines.
-
-![fill](images/01-intro/magazin/01-nintendo.jpg)
-![fill](images/01-intro/magazin/02-ct.jpg)
-![fill](images/01-intro/magazin/01-total.jpg)
+![right fill](images/01-intro/magazin/01-nintendo.jpg)
 
 ---
 ^ Most magazines had some CD attached.
 
 ^ The ones about computers contained application, demos, drivers & patches.
 
-^ Why? Because internet was not available to everyone and bandwidth was limited.
+^ Why? Because internet was not available to everyone.
 
 ![left fill](images/01-intro/pcwelt-cd.jpg)
 
@@ -87,7 +90,7 @@ theme: Scherzkeks, 1
 ---
 ^ Could I use those CDs ? Not at all.
 
-^ as I didn't even owned a computer.
+^ As I didn't even owned a computer.
 
 ![fit](images/01-intro/paperboard-computer.jpg)
 
@@ -104,8 +107,6 @@ theme: Scherzkeks, 1
 
 ---
 ^ I created dozens of those galaxy spirals.
-
-^ Whatever the kid would find in the filter effects section
 
 ![fill](images/01-intro/universe.jpg)
 
@@ -133,7 +134,7 @@ theme: Scherzkeks, 1
 ---
 ^ Of course. Playing games.
 
-^ It's 1998 and I enjoy my new computer day and night.
+^ It's 1998 and I enjoyed my new computer day and night.
 
 # [fit] **_1998_**
 # [fit] PC Gaming
@@ -153,7 +154,7 @@ theme: Scherzkeks, 1
 ---
 ^ I used a 56k modem to do so.
 
-^ This was by the way slower than your throttled dataplan on your smartphone.
+^ This was slower than your throttled dataplan on your smartphone.
 
 ^ Let's listen to the iconic sound for a quick flashback.
 
@@ -165,17 +166,7 @@ theme: Scherzkeks, 1
 ---
 ^ I'm also watching that new tv station called  **NBC Giga**
 
-^ Young moderators are talking about internet stuff, games and computer news.
-
-^ Sure as hell I loved that tv station.
-
-# _NBC Giga TV_
-![fill](images/01-intro/giga/giga-logo.jpg)
-
-![fill](images/01-intro/giga/techguy.jpg)![inline fill](images/01-intro/giga/miriam.jpg)
-
----
-^ It must be somewhen around April 1999.
+^ It's around April 1999.
 
 ^ I'm at home from school before leaving for afternoon classes
 
@@ -210,18 +201,7 @@ theme: Scherzkeks, 1
 # [fit] **_I forgot the name_**
 
 ---
-^ It is Saturday
-
-^ This means getting up as early as possible
-
-^ and watching series like Saber Rider, Captain Future, Duck Tales or the gummybears.
-
-^ Around lunch time..
-
-![](images/01-intro/saber-rider.gif)
-
----
-^ .. I watched Giga TV again.
+^ On a Saturday I watched Giga TV again
 
 ^ And I could not believe it.
 
@@ -254,7 +234,7 @@ theme: Scherzkeks, 1
 [.header: text-scale(0.5)]
 ^ This moment just now?
 
-^ This was genesis of my programming career.
+^ This was the genesis of my programming career.
 
 # [fit] Genesis
 ## of my
@@ -263,21 +243,19 @@ theme: Scherzkeks, 1
 ---
 ^ Flash looked like this.
 
-^ A timeline, some layers, a stage and some tools.
+^ A timeline, some layers and tools.
+
+^ And the stage where everything is being animated
 
 ![fit](images/01-intro/flash4-stage.jpg )
 
 ---
-^ I quickly found the Actions panel.
-
-^ It was the place to code.
+^ I quickly found the place to code.
 
 ![fit](images/01-intro/flash4-actions.gif )
 
 ---
 ^ Soon I was able to program the very famous Yugop Menu
-
-^ This menu was named by Yugo Nakamura. He was a star of the flash scene.
 
 ^ It's an horizontal navigation with the illusion of infinity.
 
@@ -305,7 +283,7 @@ theme: Scherzkeks, 1
 ![fill](images/01-intro/derbauer-theportal-long.gif )
 
 ---
-^ By the way and just to remind you.
+^ By the way just to remind you.
 
 ^ The web without flash?
 
@@ -366,7 +344,7 @@ theme: Scherzkeks, 1
 
 ---
 [.background-color: #fdc552]
-^ So for the next 30 minutes I will talk about
+^ So for the next 20 minutes I will talk about
 
 ^  1. Why coding matters.
 
@@ -432,7 +410,11 @@ theme: Scherzkeks, 1
 ![fill](images/02-why/new-year-resolution.jpg )
 
 ---
-^ Germany's Bundeskanzlerin Angela Merkel is talking about coding as the new literacy for young people besides reading, writing and math.
+^ Germany's Bundeskanzlerin Angela Merkel is talking
+
+^ about coding as the new literacy for young people
+
+^ besides reading, writing and math.
 
 > "coding is the new literacy for young people"
 -- Bundeskanzlerin Merkel, Digitalkonferenz, 2016 (liberally translated)
@@ -472,11 +454,11 @@ theme: Scherzkeks, 1
 ---
 ^ ...Our kids should learn coding.
 
-^ Is this justified? Should our kids learn coding?
+^ Is this justified?
 
 ^ I’m biased in this question for obvious reasons.
 
-^ So let me step back and let's look at the bigger picture.
+^ So let's step back and take a look at the bigger picture.
 
 # [fit] Kids
 # **_should learn_**
@@ -518,7 +500,7 @@ theme: Scherzkeks, 1
 # [fit] **_Essential_**
 
 ---
-^ Hell yeah! That would be silly indeed.
+^ Yeah! That would be silly indeed.
 
 ^ But what do we do?
 
@@ -535,14 +517,11 @@ theme: Scherzkeks, 1
 ---
 ^ So are we silly then?
 
-# [fit] ArE wE **_silly_**?!
-
----
 ^ Or..
 
 ^ Are we are just talking about something else than coding?
 
-# OR..
+# [fit] ArE wE **_silly_**?!
 
 ---
 ^ What if the **word coding** is a mistake and born out of **confusion**?
@@ -568,7 +547,7 @@ theme: Scherzkeks, 1
 
 ^ And together with it the very first programming language.
 
-# [fit] _**1943.** Konrad Zuse._
+# [fit] _**1943** Konrad Zuse_
 ![](images/02-why/konrad-zuse.jpg )
 
 ---
@@ -632,8 +611,6 @@ theme: Scherzkeks, 1
 
 ^ they actually say "our kids need to learn technology"
 
-^ so they can understand the bigger picture, the connecting lines.
-
 # our kids need to learn
 # [fit]  ~~coding~~ **_technology_**
 
@@ -649,6 +626,8 @@ theme: Scherzkeks, 1
 ^ It's not about coding anymore
 
 ^ It's about exposure to technology, computer and programming
+
+^ so they can understand the bigger picture, the connecting lines.
 
 ^ Most of the kids will never be a coder anyway.
 
@@ -669,14 +648,13 @@ theme: Scherzkeks, 1
 
 ^ but also how the internet is functioning
 
-^ how a robot is build and controlled
-
-^ How algorithms are working
+^ how a robot is controlled
 
 ^ and let them tinker around with electronics.
+
 ## **_Learn Coding but also:_**
 ## [fit] Internet, Robotics
-## [fit] Algorithms, Tinkering
+## [fit] Tinkering
 
 ---
 ^ Teaching Coding still makes sense
@@ -699,11 +677,9 @@ theme: Scherzkeks, 1
 ---
 ^ As a coder
 
-^ you make the transition from being a consumer
+^ you make the transition from being a consumer to a producer
 
-^ to a producer, who can create its own
-
-^ worlds in the computer, try out ideas and tell stories.
+^ who can tell stories and create own worlds in the computer
 
 ## [fit] **_be a producer_**
 ## not a consumer
@@ -727,16 +703,18 @@ theme: Scherzkeks, 1
 ## [fit] Chances
 
 ---
-^ Diversity. The computer just don't care who you are. Everybody can be a coder.
+^ Diversity. The computer just don't care who you are.
+
+^ Everybody can become a coder.
 
 ## [fit] Diversity
 
 ---
 ^ And coding gives your child another perspective about dreamjobs.
 
-^ Just look at me. I wanted to be a policeman first, then a fireman
+^ Just look at me. I wanted to be a policeman first, then a stock broker
 
-^ and now the coding kid became a programmer by watching TV.
+^ and today the coding kid became a programmer by watching TV.
 
 ## [fit] Perspective
 
@@ -770,15 +748,13 @@ theme: Scherzkeks, 1
 ---
 ^ A drawbot.
 
-^ This is an toy which every kid starting with 4 years can build.
+^ This is a toy that every kid starting with 4 years can build.
 ## [fit] Drawbot
 
 ---
 ^ The parts cost less than 2 EUR
 
-^ You have three legs made of pens, a battery and a motor with an unbalanced weight rotating.
-
-^ Don't forget to decorate the bot so it looks like an animal and the like.
+^ You have three legs made of pens, a battery and a rotating motor.
 
 ^ And then magic happens.
 
@@ -821,11 +797,17 @@ theme: Scherzkeks, 1
 ![](images/03-how/tinkering/circuit.jpg )
 
 ---
-^ A Screaming carrot of course!
+^ Of course, a Super Mario Controller
 
-^ I will switch now into my development environment for a quick live coding session
+^ Find a mario game that you can control with your keyboard
 
-![fit](images/03-how/tinkering/screaming-carrot.jpg)
+^ Take some play Dooh - which is suprisingly conductive
+
+^ Build your own game controller.
+
+^ And finally switch from the keyboard to your own built device.
+
+![](images/03-how/tinkering/makey-markio.gif )
 
 ---
 [.background-color: #fdc552]
@@ -850,7 +832,7 @@ theme: Scherzkeks, 1
 
 ^ You can drive around with an app or program them.
 
-^ Costs around 80 EUR
+^ They cost around 80 EUR
 
 # [fit] OLLIE
 # &
@@ -870,11 +852,9 @@ theme: Scherzkeks, 1
 ![left](images/03-how/dash-dot.gif)
 
 ---
-^ In their wonder app about everything is about exploring and adventures.
+^ You can use the app WONDER where everything is about exploring and adventures.
 
-^ You don't create programs but you solve missions.
-
-^ You solve those missions by linking behaviors about lights, sound or move.
+^ You don't create programs but you solve missions by linking behaviors about lights, sound or movement.
 
 ![fit](images/03-how/wonder-app.jpg)
 
@@ -886,19 +866,14 @@ theme: Scherzkeks, 1
 ![fit](images/03-how/wonder-blockly-app.jpg)
 
 ---
-^ Not hard to see that here comes my favorite.
-
-^ It's mbot and I call him the master of all robots.
+^ Here comes mbot- my favorite robot.
 
 ## [fit] mbot
-## **_the master of all robots_**
 
 ---
-^ He's made by Makeblock.
+^ He's based on Arduino uno and OpenSource.
 
-^ and based on Arduino uno
-
-^ It's OpenSource which means all parts and all software can be used without paying money.
+^ This means you can create all parts yourself and use the software for free.
 
 ^ You can of course buy it as a package for 80 EUR.
 
@@ -923,14 +898,7 @@ theme: Scherzkeks, 1
 ![fill](images/03-how/mbot-line.gif)
 
 ---
-^ You can also program it yourself.
-
-^ You use makeblocks own software called mBlock to write and upload the code.
-
-![fill](images/03-how/mbot-mblock.png)
-
----
-^ Speaking of coding, let’s look how this is being teached.
+^ Let’s look how coding is being teached.
 
 ^ You usually tackle it in three different parts.
 
@@ -941,7 +909,7 @@ theme: Scherzkeks, 1
 ---
 ^ Let's look at the analog activity.
 
-^ If you want to control a robot you have behave like a robot first.
+^ If you want to control a robot you have to behave like a robot first.
 
 ^ So let's play the human robot game.
 
@@ -954,7 +922,7 @@ theme: Scherzkeks, 1
 
 ^ You explain the kids in the round that they can only use five commands to control the robot.
 
-^ forward, left, right, backward and stop
+^ forward, turn left, turn right, backward and stop
 
 ^ Let's begin
 
@@ -985,9 +953,9 @@ theme: Scherzkeks, 1
 ---
 ^ In the end kids really love that game, collaborate and understand the limits of a machine
 
-^ They also understand the requirement of exact commands
+^ They also understand the requirement of exact commands.
 
-^ and to put one command after another - just like in programming.
+^ And to put one command after another - just like in programming.
 
 ![fill](images/03-how/haba-robot.jpg)
 
@@ -1034,8 +1002,6 @@ theme: Scherzkeks, 1
 
 ^ That's a photo from The White House where they hold an Hour Of Code event in 2014.
 
-^ Hour of Code takes place every year from 4.-10. December.
-
 ![](images/03-how/code-org/potus.jpg)
 
 ---
@@ -1043,16 +1009,9 @@ theme: Scherzkeks, 1
 
 ^ I usually pick a labyrinth style game to follow up with the human robot example.
 
-^ This is the Zombie Level which is an intermediate level.
-
-^ The zombie has to be guided to his favorite food.
+^ This is the Zombie Level where a zombie has to be guided to his favorite food.
 
 ^ A sunflower of course!
-
-^ In every game there are multiple levels with increasing difficulty.
-
-^ You slowly introduce conditionals (if-else), loops and new commands.
-
 
 ![fit](images/03-how/code-org/new/zombie-idle.gif)
 
@@ -1072,7 +1031,7 @@ theme: Scherzkeks, 1
 ---
 ^ Kids will usually place one command after the other
 
-^ That's their idiomatic version and it's working
+^ That's simple and it's working
 
 ^ But it results in a huge list
 
@@ -1112,16 +1071,17 @@ theme: Scherzkeks, 1
 ---
 ^ and they are ready for Scratch to do some real coding.
 
-^ Scratch can be used as an application and online in the web browser through flash.
-
-^ Scratch 3.0 is in active development, based on HTML5 and will be released this August.
+^ Scratch is the most famous tool in kids programming.
 
 ![](images/03-how/scratch/scratch-logo.jpg)
 
 ---
-^ Scratch is the most famous tool for kids programming.
 
 ^ It’s a programming language invented by Mitchel Resnick at the MIT Media Lab.
+
+^ Scratch can be used as an application and online in the web browser through flash.
+
+^ Scratch 3.0 is in active development, based on HTML5 and will be released this August.
 
 ![](images/03-how/scratch/scratch-mitchel.jpg)
 
@@ -1152,7 +1112,20 @@ theme: Scherzkeks, 1
 
 ^ That is called block based programming.
 
+^ And you can do funky stuff like this. ----> WAIT GIF
+
 ![fit](images/03-how/scratch/new/coolcat.gif)
+
+
+---
+^ To complete this section I brought you something special
+
+^ > A screaming carrot <
+
+^ Let me quickly switch over in my Scratch application
+
+![fit](images/03-how/tinkering/screaming-carrot.jpg)
+
 
 ---
 [.background-color: #fdc552]
@@ -1225,17 +1198,24 @@ theme: Scherzkeks, 1
 ---
 [.background-color: #fdc552]
 
-^ Good. Let's go to the concl..
-# [fit] _Conclu.._
----
+^ Good.
 
+^ Let's go to the concl..
+
+# [fit] _Conclu..._
+---
 [.background-color: #fdc552]
 
-^ Wait.
+^ but wait
+# [fit] _Conclu..._
+# _but wait_
+
+---
+[.background-color: #fdc552]
 
 ^ What about me, the teacher? What do I get??
 
-# _ehh, what about me?_
+# _what about me?_
 # [fit] _Your benefits_
 
 ---
@@ -1244,8 +1224,6 @@ theme: Scherzkeks, 1
 ^ It's healthy and relaxes your mind.
 
 ^ It entertains the kid inside you.
-
-^ And you have finally an excuse to finally learn to play Minecraft
 
 # Entertain
 # [fit] the kid
@@ -1270,7 +1248,7 @@ theme: Scherzkeks, 1
 ![fit](images/benefits/greetings-01.gif)
 
 ---
-^ Did you ever try to explain if & else to kids or your parents?
+^ Did you ever try to explain computer code to kids or your parents?
 
 ^ Yes it's very difficult.
 
@@ -1293,7 +1271,9 @@ theme: Scherzkeks, 1
 # [fit] Fun
 
 ---
-^ The unicorn super horse
+^ For example the unicorn super horse
+
+^ A stop-motion movie created in the Digitalwerkstatt
 
 ![fill](images/04-where/unicorn.gif)
 
@@ -1347,7 +1327,7 @@ theme: Scherzkeks, 1
 # [fit] _2. You know how_
 
 ---
-^ By building Drawbots and using MakeyMakey to explore the world of banana pianos
+^ By building Drawbots and using MakeyMakey to make play dooh controllers
 ## [fit] Tinkering
 ## [fit] with **_Makey Makey and Drawbot_**
 
@@ -1360,11 +1340,11 @@ theme: Scherzkeks, 1
 ## like **_Dash, Dot & mbot_**
 
 ---
-^ and by playing hour of code on code.org you make the transition
+^ play the human robot and zombie games
 
-^ from the human robot and to zombie maze games to scratch
+^ to prepare the kids for coding in scratch
 
-^ to unleash their creativity
+^ where they can unleash their creativity
 
 ## [fit] Coding
 ## **_Human robot, Maze Games and Scratch_**
@@ -1410,9 +1390,7 @@ theme: Scherzkeks, 1
 ## [fit] kid again
 
 ---
-^ be creative by creating challenges for the kids
-
-^ and create your own scratch birhtday cards
+^ be creative when you create challenges for yourk kids
 
 ## [fit] be creative
 
@@ -1426,7 +1404,7 @@ theme: Scherzkeks, 1
 ---
 ^ And hanging around with kids is fun.
 
-^ I would have never know about the unicorn super horse
+^ I would have never known about the unicorn super horse
 
 
 ## [fit] Fun
@@ -1435,7 +1413,7 @@ theme: Scherzkeks, 1
 [.background-color: #fdc552]
 ^ One last thing I want to tell
 
-^ I still remember my very first time I teached kids in the Digitalwerkstatt.
+^ I still remember my very first time I teached kids.
 
 # [fit] _One last thing_
 
@@ -1446,14 +1424,12 @@ theme: Scherzkeks, 1
 
 ^ I want you to experience the same and help some kids finding their way through technology.
 
-^ Everybody can teach it.
-
 ![fill](images/conclusion/happy-coding-girl.jpg)
 
 ---
-^ Thanks
+^ You can find the slides and linklist at this URL.
 
-^ Slides & compiled linklist
+^ Thanks a lot for listening!
 
 # [fit] Thanks
 - by Georgios Kaleadis

@@ -1,5 +1,14 @@
 # About Coding Kids and Screaming Carrots
-This holds my slides in markdown format targeting Deckset
+
+## Feedback Nr. 1
+General:
++ Past tense.
++ Paar Folien bisschen länger stehen lassen zum wirken: Internet.
+
+Screaming Carrot
++ Jeder fragt sich bestimmt warum Screaming
++ super horse nicht verstandne- alternative? oder rauswerfen.
+
 
 ## Todos
 + About Me Page
@@ -22,10 +31,6 @@ This holds my slides in markdown format targeting Deckset
 + 28min ohne Karotte
 + Stage/Editor Schrift falsch bei Scratch
 + Stupid Jokes example? (ENtertain the kid inside you)
-+ coding slide bei dash dot raus
-+ haba digitalwekrstatt viel zu viel text, subsidiary usw raus.
-+ kebap heist rausnehmen - einhorn drinnen lassen
-
 
 ## Checklist
 1. Buy Drawbot Parts
@@ -45,17 +50,39 @@ This holds my slides in markdown format targeting Deckset
 1. Prepare everything in a box then reveeal?
 2. or quickly put everything together on stage ?
 
-### Human Robot with MC ?
-Let them spin (eingeweihter MC)
-ME: Turn RIght
-MC: Spins
-ME: Explaining
-Someone? STOOOOP
-
-
-
-
 ## Live Coding
+Screaming carrot is a hardware installation based on a MakeyMakey.
+And the Software part you are seeing is created in Scratch.
+
+I will now start the video so you can see what I'm doing.
+
+1. Here you can see a carrot, a kitchen knife and the MakeyMakey board.
+
+2. The MakeyMakey has different contact points labelled with the corresponding key on the keyboard. That's the SPACE key contact.
+
+3. I will now connect the SPACE key to the carrot with this cable
+
+4. To close the circuit I want to use a knife which I will also connect to the MakeyMakey- this time to GROUND.
+
+5. Now let's connect the MakeyMakey to the computer with USB. All those lights tell us that it has turned on
+
+6. When I touch the carrot with the knife you see a green LED glowing on the MakeyMakey and also a visual appearing that I programed.
+
+7. This means everything is working. So let's make it scream.
+
+8. In Scratch I can detect when a key is being pressed. It's set to SPACE.
+
+9. I want to play a sound instead of showing the visual. So switch that.
+
+10. Now when I touch the carrot with the knife, MakeyMakey will tell the computer the SPACE key is pressed and Scratch will play a horrible screaming sound.
+
+11. Let's have some fun with the carrot now.
+
+
+
+
+
+
 My coding environment is called Scratch
 and I will show you more of it later in the talk.
 
