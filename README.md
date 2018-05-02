@@ -1,3 +1,36 @@
+## Live Coding Notes
+Screaming carrot is a hardware installation based on a MakeyMakey.
+And the Software part you are seeing is created in Scratch.
+
+I will now start the video so you can see what I'm doing.
+
+1. Here you can see a carrot, a kitchen knife and the MakeyMakey board.
+
+2. The MakeyMakey has different contact points labelled with the corresponding key on the keyboard. That's the SPACE key contact.
+
+3. I will now connect the SPACE key to the carrot with this cable
+
+4. To close the circuit I want to use a knife which I will also connect to the MakeyMakey- this time to GROUND.
+
+5. Now let's connect the MakeyMakey to the computer with USB. All those lights tell us that it has turned on
+
+6. When I touch the carrot with the knife you see a green LED glowing on the MakeyMakey and also a visual appearing that I programed.
+
+7. This means everything is working. So let's make it scream.
+
+8. In Scratch I can detect when a key is being pressed. It's set to SPACE.
+
+9. I want to play a sound instead of showing the visual. So switch that.
+
+10. Now when I touch the carrot with the knife, MakeyMakey will tell the computer the SPACE key is pressed and Scratch will play a horrible screaming sound.
+
+11. Let's have some fun with the carrot now.
+
+
+
+
+
+
 # About Coding Kids and Screaming Carrots
 
 ## Feedback Nr. 1
@@ -49,36 +82,6 @@ Screaming Carrot
 ### Show Carrot
 1. Prepare everything in a box then reveeal?
 2. or quickly put everything together on stage ?
-
-## Live Coding
-Screaming carrot is a hardware installation based on a MakeyMakey.
-And the Software part you are seeing is created in Scratch.
-
-I will now start the video so you can see what I'm doing.
-
-1. Here you can see a carrot, a kitchen knife and the MakeyMakey board.
-
-2. The MakeyMakey has different contact points labelled with the corresponding key on the keyboard. That's the SPACE key contact.
-
-3. I will now connect the SPACE key to the carrot with this cable
-
-4. To close the circuit I want to use a knife which I will also connect to the MakeyMakey- this time to GROUND.
-
-5. Now let's connect the MakeyMakey to the computer with USB. All those lights tell us that it has turned on
-
-6. When I touch the carrot with the knife you see a green LED glowing on the MakeyMakey and also a visual appearing that I programed.
-
-7. This means everything is working. So let's make it scream.
-
-8. In Scratch I can detect when a key is being pressed. It's set to SPACE.
-
-9. I want to play a sound instead of showing the visual. So switch that.
-
-10. Now when I touch the carrot with the knife, MakeyMakey will tell the computer the SPACE key is pressed and Scratch will play a horrible screaming sound.
-
-11. Let's have some fun with the carrot now.
-
-
 
 
 

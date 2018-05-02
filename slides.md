@@ -5,7 +5,7 @@ theme: Scherzkeks, 1
 
 ^ About CODING KIDS and SCREAMING CARROTS
 
-^ And just to make sure. In this presentation we talk about kids in the age of 6-12 years.
+^ And just to make sure. In this presentation I talk about kids in the age of 6-12 years.
 
 ^ I hope you enjoy it.
 
@@ -15,18 +15,18 @@ theme: Scherzkeks, 1
 # [fit] _**Screaming Carrots**_
 
 ---
-^ I'm Georgios Kaleadis
+^ I'm Georgios Kaleadis, 34 years old
 
-^ I'm living in Munich and I'm a Principal Developer for Sinnerschrader
+^ I'm living in Munich and I'm a Principal Frontend Developer for Sinnerschrader
 
 ^ In my spare time I teach coding to kids
 
-^ which inspired me so much and brought me to this stage today.
+^ which inspired me so much that it brought me to this stage today.
 
 ^ I'm also Origami addicted...
 
 # [fit] Georgios Kaleadis
-+ Living in Munich, Germany
++ Living in Munich, Germany, born 1984
 + Principal Frontend Developer for Sinnerschrader
 + Kids Coding Trainer
 + Origami addicted
@@ -43,7 +43,9 @@ theme: Scherzkeks, 1
 ---
 [.background-color: #fdc552]
 
-^ Let's start with some nostalgia fun. Me the coding kid.
+^ Let's start.
+
+^ First some nostalgia fun with me as the coding kid.
 
 # [fit] *Nostalgia Fun*
 ## *with*
@@ -99,7 +101,7 @@ theme: Scherzkeks, 1
 
 ^ when my older sister took me in her agency office.
 
-^ There I had the opportunity to tinker around on a Mac running the wonderful OS 9.
+^ There I had the opportunity to tinker around with a Mac running the wonderful OS 9.
 
 ^ Photoshop was my favourite application.
 
@@ -123,7 +125,7 @@ theme: Scherzkeks, 1
 ![fit](images/01-intro/xmas-monitor-tree.jpg)
 
 ---
-^ That computer was running Windows 95 on a Pentium MMX 200 Mhz with a 4GB hard disk.
+^ My computer was running Windows 95 on a Pentium MMX 200 Mhz with a 4GB hard disk.
 
 ^ This thing had of course no internet.
 
@@ -176,7 +178,7 @@ theme: Scherzkeks, 1
 
 
 ---
-^ There was a timeline where they could easily animate a red ball bouncing around.
+^ They could easily animate a red ball bouncing around.
 
 ^ Must have looked like this.
 
@@ -245,7 +247,7 @@ theme: Scherzkeks, 1
 
 ^ A timeline, some layers and tools.
 
-^ And the stage where everything is being animated
+^ And of course the stage where everything is being animated
 
 ![fit](images/01-intro/flash4-stage.jpg )
 
@@ -625,7 +627,7 @@ theme: Scherzkeks, 1
 
 ^ It's not about coding anymore
 
-^ It's about exposure to technology, computer and programming
+^ It's about exposure to technology, computer science and programming
 
 ^ so they can understand the bigger picture, the connecting lines.
 
@@ -650,7 +652,7 @@ theme: Scherzkeks, 1
 
 ^ how a robot is controlled
 
-^ and let them tinker around with electronics.
+^ and you let them tinker around with electronics.
 
 ## **_Learn Coding but also:_**
 ## [fit] Internet, Robotics
@@ -731,7 +733,7 @@ theme: Scherzkeks, 1
 ---
 ^ I will present you now a list of my favourite tools I love to use when teaching
 
-^ Tinkering, Robots and actual Coding
+^ It's about Tinkering, Robots and actual Coding
 
 # _**My favourite toolset**_
 
@@ -748,7 +750,7 @@ theme: Scherzkeks, 1
 ---
 ^ A drawbot.
 
-^ This is a toy that every kid starting with 4 years can build.
+^ This is a toy that every kid starting with 4 years can build by themselves.
 ## [fit] Drawbot
 
 ---
@@ -790,7 +792,7 @@ theme: Scherzkeks, 1
 ![](images/03-how/makeymakey.jpg )
 
 ---
-^ When closing a circuit you virtually press a key
+^ When you close a circuit you virtually press a defined key
 
 ^ And what can you do with it?
 
@@ -803,7 +805,7 @@ theme: Scherzkeks, 1
 
 ^ Take some play Dooh - which is suprisingly conductive
 
-^ Build your own game controller.
+^ Build your own game controller to move and jump.
 
 ^ And finally switch from the keyboard to your own built device.
 
@@ -828,7 +830,7 @@ theme: Scherzkeks, 1
 
 ^ Two different toys from the same brand
 
-^ Connects through Bluetooth with your smartphone.
+^ You connect them with your smartphone through Bluetooth.
 
 ^ You can drive around with an app or program them.
 
@@ -846,6 +848,8 @@ theme: Scherzkeks, 1
 
 ^ with many sensors and they can communicate with LEDs and speakers.
 
+^ They cost around 200 EUR
+
 # [fit] Dash
 # &
 # [fit] Dot
@@ -861,7 +865,7 @@ theme: Scherzkeks, 1
 ---
 ^ There is also an app where you have more of a coding experience.
 
-^ This gives the kid a focus on their own creativity.
+^ This gives the kid a focus on their own creativity with the robots.
 
 ![fit](images/03-how/wonder-blockly-app.jpg)
 
@@ -1081,7 +1085,7 @@ theme: Scherzkeks, 1
 
 ^ Scratch can be used as an application and online in the web browser through flash.
 
-^ Scratch 3.0 is in active development, based on HTML5 and will be released this August.
+^ The next version 3 is based on HTML5 and will be released this August.
 
 ![](images/03-how/scratch/scratch-mitchel.jpg)
 
