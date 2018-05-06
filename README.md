@@ -1,8 +1,5 @@
 ## Live Coding Notes
-Screaming carrot is a hardware installation based on a MakeyMakey.
-And the Software part you are seeing is created in Scratch.
-
-I will now start the video so you can see what I'm doing.
+That's
 
 1. Here you can see a carrot, a kitchen knife and the MakeyMakey board.
 

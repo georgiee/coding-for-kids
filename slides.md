@@ -5,7 +5,7 @@ theme: Scherzkeks, 1
 
 ^ About CODING KIDS and SCREAMING CARROTS
 
-^ And just to make sure. In this presentation I talk about kids in the age of 6-12 years.
+^ And just to make sure. In this presentation I talk about kids in the age from 6 to 12 years.
 
 ^ I hope you enjoy it.
 
@@ -15,9 +15,11 @@ theme: Scherzkeks, 1
 # [fit] _**Screaming Carrots**_
 
 ---
-^ I'm Georgios Kaleadis, 34 years old
+^ My name is Georgios Kaleadis
 
-^ I'm living in Munich and I'm a Principal Frontend Developer for Sinnerschrader
+^ I'm 34 years old
+
+^ and I live in Munich workign for Sinnerschrader as a Principal Frontend Developer
 
 ^ In my spare time I teach coding to kids
 
@@ -26,17 +28,17 @@ theme: Scherzkeks, 1
 ^ I'm also Origami addicted...
 
 # [fit] Georgios Kaleadis
-+ Living in Munich, Germany, born 1984
++ Living in Munich, born 1984
 + Principal Frontend Developer for Sinnerschrader
 + Kids Coding Trainer
 + Origami addicted
 
 ---
-^ ...because Takeshi taught it to me in front of Osaka castle two years ago.
+^ ...after Takeshi taught it to me in front of Osaka castle two years ago.
 
 ^ Today I fold every day and I also created
 
-^ a project about virtual origami folding called Origamizake.
+^ a project about virtual origami folding
 
 ![fit](images/about.jpg)
 
@@ -80,7 +82,7 @@ theme: Scherzkeks, 1
 ---
 ^ Most magazines had some CD attached.
 
-^ The ones about computers contained application, demos, drivers & patches.
+^ The ones about computers contained applications, demos, drivers & patches.
 
 ^ Why? Because internet was not available to everyone.
 
@@ -99,7 +101,7 @@ theme: Scherzkeks, 1
 ---
 ^ I only got in touch with real computers
 
-^ when my older sister took me in her agency office.
+^ when my sister took me to her agency office.
 
 ^ There I had the opportunity to tinker around with a Mac running the wonderful OS 9.
 
@@ -125,7 +127,7 @@ theme: Scherzkeks, 1
 ![fit](images/01-intro/xmas-monitor-tree.jpg)
 
 ---
-^ My computer was running Windows 95 on a Pentium MMX 200 Mhz with a 4GB hard disk.
+^ My computer was running Windows 95 and had a 4GB hard disk.
 
 ^ This thing had of course no internet.
 
@@ -166,11 +168,9 @@ theme: Scherzkeks, 1
 ![right fit](images/01-intro/modem.jpg)
 
 ---
-^ I'm also watching that new tv station called  **NBC Giga**
-
 ^ It's around April 1999.
 
-^ I'm at home from school before leaving for afternoon classes
+^ My favourite tv station about games and computers is **NBC Giga**
 
 ^ This particular day two guys were showing a new application
 
@@ -178,9 +178,9 @@ theme: Scherzkeks, 1
 
 
 ---
-^ They could easily animate a red ball bouncing around.
+^ They animated a red ball bouncing around.
 
-^ Must have looked like this.
+^ It must have looked like this.
 
 ![fill](images/01-intro/giga/red-ball.gif)
 
@@ -189,7 +189,7 @@ theme: Scherzkeks, 1
 
 ^ They mentioned the name of the application.
 
-^ But I had to hurry back to school and didn't write it down.
+^ But I had to hurry back to afternoon school and didn't write it down.
 
 ^ After school I wanted to search for a demo version on my magazine cds.
 
@@ -209,10 +209,11 @@ theme: Scherzkeks, 1
 
 ^ It was the repeated show from earlier of the week.
 
+^ ---> I was frozen in front of my ..... TV
+
 ![fill](images/01-intro/giga/giga-logo.gif)
 
 ---
-^ I was frozen in front of my TV
 
 ^ I holded my breath
 
@@ -280,7 +281,7 @@ theme: Scherzkeks, 1
 
 ^ Yes this was a website.
 
-^ I was soooo impressed back then I and wanted to do the same.
+^ I was soooo impressed back then I and wanted to program the same myself.
 
 ![fill](images/01-intro/derbauer-theportal-long.gif )
 
@@ -289,7 +290,7 @@ theme: Scherzkeks, 1
 
 ^ The web without flash?
 
-^ It looked like that.
+^ You can see here early websites of AOL, Yahoo, Google
 
 ![inline fill](images/01-intro/old-aol.png) ![inline fill](images/01-intro/old-yahoo.jpg)
 ![inline fill](images/01-intro/old-randompage.png) ![inline fill](images/01-intro/old-google.jpg)
@@ -424,19 +425,6 @@ theme: Scherzkeks, 1
 ![fit](images/02-why/merkel.jpg )
 
 ---
-^ It even reaches levels like this.
-
-^ Congressman Tony Cárdenas from Southern California introduced a bill called with exactly that name in 2013.
-
-# [fit] 416D65726963612043616E20436F646520
-# **_Act of 2013_**
-
----
-^ It’s a string of 34 letters in ASCII hexadecimal code and translates to ”America Can Code."
-
-![fit](images/02-why/america-code-annotated.jpg )
-
----
 ^ All that shows that something is going on.
 
 ^ That the world is concerned about the future of our kids.
@@ -480,7 +468,7 @@ theme: Scherzkeks, 1
 ^ It's sort of like an **obsession** with being an **auto mechanic**
 
 <!-- This is mechanic comparison is coming from npr.org -->
-# [fit] _**Obession**_
+# [fit] _**Obsession**_
 
 ---
 ^ There are **tons of cars**, there's tons of **driving** ...
@@ -521,12 +509,12 @@ theme: Scherzkeks, 1
 
 ^ Or..
 
-^ Are we are just talking about something else than coding?
+^ Are we just talking about something else than coding?
 
 # [fit] ArE wE **_silly_**?!
 
 ---
-^ What if the **word coding** is a mistake and born out of **confusion**?
+^ What if the **word coding** is born out of **confusion**?
 # [fit] ~~coding~~
 
 ---
@@ -535,20 +523,19 @@ theme: Scherzkeks, 1
 # What do people actually mean with **_coding_** ?
 
 ---
-^ Let me go back some years.
+^ Let me go back some years
 
-^ Do you know when the first programming language was invented?
+^ To the moment the first programming language was invented
 
 # [fit] First
 # [fit] Programming Language
 
 ---
-^ In 1943 by Konrad Zuse
+^ In 1943 Konrad Zuse built his famous Z3
 
-^ He just invented his famous Z3
+^ And together with it the very first programming language called Plankalkuel
 
-^ And together with it the very first programming language.
-
+# [fit] **_Plankalkuel_**
 # [fit] _**1943** Konrad Zuse_
 ![](images/02-why/konrad-zuse.jpg )
 
@@ -573,10 +560,8 @@ theme: Scherzkeks, 1
 ---
 ^ Coding on the other side is easy to grasp.
 
-^ You frequently see it in movies and it's therefore easy explained.
-
 # [fit] Coding?
-## **_Sure, I know that from movies_**
+## **_Sure, I know that_**
 
 ---
 ^ Take someone
@@ -594,10 +579,10 @@ theme: Scherzkeks, 1
 
 ^ Maybe that's why it's mixed up.
 
-^ Let’s try a thesis.
+^ Let’s try a theory.
 
 # Let's try a
-# [fit] _**Thesis**_
+# [fit] _**Theory**_
 
 ---
 [.header: text-scale(0.5)]
@@ -617,7 +602,7 @@ theme: Scherzkeks, 1
 # [fit]  ~~coding~~ **_technology_**
 
 ---
-^ And the whole coding discussion suddenly makes sense.
+^ The whole coding discussion suddenly makes sense.
 
 # [fit] The Discussion
 # **_suddenly makes sense_**
@@ -629,7 +614,7 @@ theme: Scherzkeks, 1
 
 ^ It's about exposure to technology, computer science and programming
 
-^ so they can understand the bigger picture, the connecting lines.
+^ so kids can understand the bigger picture, the connecting lines.
 
 ^ Most of the kids will never be a coder anyway.
 
@@ -640,7 +625,7 @@ theme: Scherzkeks, 1
 
 ^ That there are limitations, benefits and possibilities from using them.
 
-## [fit] _no magic_
+## [fit] _**no magic**_
 
 ![](images/02-why/magic.jpg)
 
@@ -758,8 +743,6 @@ theme: Scherzkeks, 1
 
 ^ You have three legs made of pens, a battery and a rotating motor.
 
-^ And then magic happens.
-
 
 ![fit](images/03-how/drawbot.jpg )
 
@@ -785,7 +768,7 @@ theme: Scherzkeks, 1
 ## [fit] Makey Makey
 
 ---
-^ It’s basically a board that pretends to be a keyboard.
+^ It’s basically a board that pretends to be a computer keyboard.
 
 ^ You use the alligator clips to connect conductive objects with it
 
@@ -799,7 +782,7 @@ theme: Scherzkeks, 1
 ![](images/03-how/tinkering/circuit.jpg )
 
 ---
-^ Of course, a Super Mario Controller
+^ Build a Super Mario Controller
 
 ^ Find a mario game that you can control with your keyboard
 
@@ -826,27 +809,11 @@ theme: Scherzkeks, 1
 ![](images/03-how/robot-generic.gif )
 
 ---
-^ That's Ollie and Sphero.
-
-^ Two different toys from the same brand
-
-^ You connect them with your smartphone through Bluetooth.
-
-^ You can drive around with an app or program them.
-
-^ They cost around 80 EUR
-
-# [fit] OLLIE
-# &
-# [fit] Sphero
-![left](images/03-how/sphero-and-ollie.png)
-
----
 ^ Say hello to Dash & Dot.
 
-^ Those are more complex and expensive robots
+^ Those are robots with many sensors
 
-^ with many sensors and they can communicate with LEDs and speakers.
+^ and they can communicate with LEDs and speakers.
 
 ^ They cost around 200 EUR
 
@@ -870,14 +837,14 @@ theme: Scherzkeks, 1
 ![fit](images/03-how/wonder-blockly-app.jpg)
 
 ---
-^ Here comes mbot- my favorite robot.
+^ mbot- my favorite robot.
 
 ## [fit] mbot
 
 ---
 ^ He's based on Arduino uno and OpenSource.
 
-^ This means you can create all parts yourself and use the software for free.
+^ This means you could create all parts yourself and use the software for free.
 
 ^ You can of course buy it as a package for 80 EUR.
 
@@ -950,14 +917,14 @@ theme: Scherzkeks, 1
 
 ^ They should have said turn right - a quarter.
 
-^ While spinning around, somebody will hopefully scream a `stooooop`.
+^ While spinning around, somebody will hopefully scream a `stooooop` to the desperate robot
 
 ![fill](images/03-how/robot-daleks-spin.gif)
 
 ---
 ^ In the end kids really love that game, collaborate and understand the limits of a machine
 
-^ They also understand the requirement of exact commands.
+^ They also understand the requirement of exact commands
 
 ^ And to put one command after another - just like in programming.
 
@@ -966,35 +933,15 @@ theme: Scherzkeks, 1
 ---
 ^ Your crowd is ready for some more fun.
 
-^ Let’s play some coding games on code.org.
+^ Let’s play some coding games.
 
 ## [fit] Coding
 ## [fit] Games
----
-
-^ Those games are themed after kid’s darlings like Ice Princess Elsa, Minecraft or Angry Birds.
-
-^ And they teach them principals of programming while playing.
-
-^ But wait.
-
-![fill](images/03-how/hoc-overview.png)
 
 ---
-^ Some infos about Code.org.
+^ There is a movement called Hour of Code to do so
 
-^ Founded in 2013, code.org is a non-profit organization and was launched by Hadi and Ali Partovi
-
-^ It is now supported by the largest companies around the world including amazon, facebook, microsoft & google.
-
-![left](images/03-how/code-org/logo.png)
-## [fit] code.org
-## **non-profit by Hadi and Ali Partovi**
-
----
-^ They also created the movement Hour of Code
-
-^ There are dozens of one-hour tutorials and games translated in 45 languages.
+^ There are dozens of one-hour games and tutorial translated in 45 languages.
 
 ^ Everybody is encouraged to try it out.
 
@@ -1002,11 +949,11 @@ theme: Scherzkeks, 1
 ## **_one-hour tutorials_**
 
 ---
-^ Even a US president.
+^ The games are themed after kid’s darlings like Ice Princess Elsa, Minecraft or Angry Birds.
 
-^ That's a photo from The White House where they hold an Hour Of Code event in 2014.
+^ And they teach the principals of programming while playing.
 
-![](images/03-how/code-org/potus.jpg)
+![fill](images/03-how/hoc-overview.png)
 
 ---
 ^ Ok let's play a game
@@ -1050,6 +997,8 @@ theme: Scherzkeks, 1
 
 ^ forward, left, forward, right
 
+^ forward, left, forward, right
+
 ^ and let them refactor their code to something very beautiful.
 
 ![](images/03-how/code-org/zombie.png)
@@ -1059,7 +1008,7 @@ theme: Scherzkeks, 1
 ---
 ^ And success! They usually just know what to do.
 
-^ Pick the loop block and place the repeating pattern inside.
+^ Pick the pink loop block and place the repeating pattern inside.
 
 ^ I love this moment. I explain that this is what a computer is for.
 
@@ -1081,7 +1030,7 @@ theme: Scherzkeks, 1
 
 ---
 
-^ It’s a programming language invented by Mitchel Resnick at the MIT Media Lab.
+^ It was invented by Mitchel Resnick at the MIT Media Lab in 2002.
 
 ^ Scratch can be used as an application and online in the web browser through flash.
 
@@ -1126,7 +1075,9 @@ theme: Scherzkeks, 1
 
 ^ > A screaming carrot <
 
-^ Let me quickly switch over in my Scratch application
+^ It's programed in Scratch, will make use of MakeyMakey
+
+^ and is the reason for the sensational title of this talk
 
 ![fit](images/03-how/tinkering/screaming-carrot.jpg)
 
@@ -1155,8 +1106,6 @@ theme: Scherzkeks, 1
 ---
 ^ I started teaching coding to kids in my spare time exactly one and a half year ago at Haba Digitalwerkstatt.
 
-^ Digitalwerkstatt translates to digital garage.
-
 ^ They started in Berlin in 2016 and opened their office in Munich in 2017
 
 # [fit] Digitalwerkstatt
@@ -1172,14 +1121,14 @@ theme: Scherzkeks, 1
 
 ---
 ## [fit] Hour of Code
-^ You could also host an Hour of Code yourself
+^ You could also host an Hour of Code event
 
-^ Play games and explain the basics of programming to interested people
+^ Where you play games and explain the basics of programming to interested people
 
 ---
-^ Hour of code can be hosted all year.
+^ You might even find some Hour of Code in your hometown.
 
-^ You might even find some Hour of Code in your hometown. Try to join and get in touch with the organizers.
+^ Try to join and get in touch with the organizers.
 
 ![fill](images/04-where/hourofcode.png)
 
@@ -1193,26 +1142,11 @@ theme: Scherzkeks, 1
 ---
 ^ You won't believe it but designers, project managers or maybe your clients are eager to learn coding too.
 
-^ Start by teaching them the basics
-
 ^ They will understand you better the next time you talk about bit & bytes
 
+^ .......BUT
+
 # [fit] office
-
----
-[.background-color: #fdc552]
-
-^ Good.
-
-^ Let's go to the concl..
-
-# [fit] _Conclu..._
----
-[.background-color: #fdc552]
-
-^ but wait
-# [fit] _Conclu..._
-# _but wait_
 
 ---
 [.background-color: #fdc552]
@@ -1236,9 +1170,9 @@ theme: Scherzkeks, 1
 ---
 ^ Teaching coding makes not only the kids but you creative.
 
-^ You need to create challenging tasks in Minecraft for kids
-
 ^ You need to think about what to do with a MakeyMakey
+
+^ Or create coding challenges in Scratch
 
 
 
@@ -1252,7 +1186,7 @@ theme: Scherzkeks, 1
 ![fit](images/benefits/greetings-01.gif)
 
 ---
-^ Did you ever try to explain computer code to kids or your parents?
+^ If you're a coder, did you ever try to explain someone programming?
 
 ^ Yes it's very difficult.
 
@@ -1275,11 +1209,13 @@ theme: Scherzkeks, 1
 # [fit] Fun
 
 ---
-^ For example the unicorn super horse
+^ For example the kebap heist
 
 ^ A stop-motion movie created in the Digitalwerkstatt
 
-![fill](images/04-where/unicorn.gif)
+^ Where a lego kebap is stolen by a villain
+
+![fill](images/04-where/kebap-heist.gif)
 
 ---
 [.background-color: #fdc552]
@@ -1331,7 +1267,10 @@ theme: Scherzkeks, 1
 # [fit] _2. You know how_
 
 ---
-^ By building Drawbots and using MakeyMakey to make play dooh controllers
+^ By building Drawbots
+
+^ and using MakeyMakey to make carrots scream
+
 ## [fit] Tinkering
 ## [fit] with **_Makey Makey and Drawbot_**
 
@@ -1360,13 +1299,13 @@ theme: Scherzkeks, 1
 # [fit] _3. You know where_
 
 ---
-^ At Haba Digitalwerkstatt, the place I started with locations around germany
+^ At Digitalwerkstatt, the place I started with locations around germany
 
 # [fit] Digitalwerkstatt
 
 
 ---
-^ Start by hosting yourself a hour of code event
+^ Host or join an hour of code event
 
 ## [fit] Hour of Code
 
@@ -1379,39 +1318,6 @@ theme: Scherzkeks, 1
 ^ And make your designer's happy by teaching them a bit about coding.
 
 ## [fit] Office
-
----
-^ You have personal benefits by teaching too
-
-
-[.background-color: #fdc552]
-
-# [fit] _You benefit too!_
-
----
-^ be a kid again and enjoy playing with toys
-
-## [fit] kid again
-
----
-^ be creative when you create challenges for yourk kids
-
-## [fit] be creative
-
----
-^ Supercharge your mentoring skills
-
-^ by thinking about the coding basics again
-
-## [fit] mentoring skills
-
----
-^ And hanging around with kids is fun.
-
-^ I would have never known about the unicorn super horse
-
-
-## [fit] Fun
 
 ---
 [.background-color: #fdc552]
@@ -1431,7 +1337,7 @@ theme: Scherzkeks, 1
 ![fill](images/conclusion/happy-coding-girl.jpg)
 
 ---
-^ You can find the slides and linklist at this URL.
+^ You can find the slides and linklist under this URL.
 
 ^ Thanks a lot for listening!
 
@@ -1441,3 +1347,4 @@ theme: Scherzkeks, 1
 Slides & Linklist:
 _georgiee.github.io/coding-for-kids_
 
+![left](images/conclusion/happy-carrots.jpg)
