@@ -105,11 +105,11 @@ theme: Scherzkeks, 1
 
 ^ There I had the opportunity to tinker around with a Mac running the wonderful OS 9.
 
-^ Photoshop was my favourite application.
-
 ![fill](images/01-intro/mac-os9.png)
 
 ---
+^ Photoshop was my favourite application.
+
 ^ I created dozens of those galaxy spirals.
 
 ![fill](images/01-intro/universe.jpg)
@@ -174,7 +174,7 @@ theme: Scherzkeks, 1
 
 ^ This particular day two guys were showing a new application
 
-![fill](images/01-intro/giga/giga-george-jochen.jpg)
+![fill](images/01-intro/giga/giga-george-jochen-2.jpg)
 
 
 ---
@@ -191,19 +191,30 @@ theme: Scherzkeks, 1
 
 ^ But I had to hurry back to afternoon school and didn't write it down.
 
-^ After school I wanted to search for a demo version on my magazine cds.
+^ After school I wanted to search for a demo version on all of my magazine cds.
 
+# 😲
 # [fit] I was impressed
 
 ---
 ^ But I forgot the name.
 
 ^ The week went by quickly.
-
 # [fit] **_I forgot the name_**
 
 ---
-^ On a Saturday I watched Giga TV again
+^ It is Saturday
+
+^ This means getting up as early as possible
+
+^ and watching series like Saber Rider, Captain Future or Duck Tales.
+
+^ Around lunch time..
+
+![](images/01-intro/saber-rider.gif)
+
+---
+^ I watched Giga TV again
 
 ^ And I could not believe it.
 
@@ -248,7 +259,7 @@ theme: Scherzkeks, 1
 
 ^ A timeline, some layers and tools.
 
-^ And of course the stage where everything is being animated
+^ And of course the stage where you can see a red ball bouncing around
 
 ![fit](images/01-intro/flash4-stage.jpg )
 
@@ -290,6 +301,8 @@ theme: Scherzkeks, 1
 
 ^ The web without flash?
 
+^ It looked like this
+
 ^ You can see here early websites of AOL, Yahoo, Google
 
 ![inline fill](images/01-intro/old-aol.png) ![inline fill](images/01-intro/old-yahoo.jpg)
@@ -305,7 +318,7 @@ theme: Scherzkeks, 1
 
 ^ I wish I would have had some guidance during school
 
-^ So that more than a single moment would have guided me to my career.
+^ So that more than a single moment in front of the TV would have guided me to my career.
 
 ![](images/01-intro/infront-of-tv.jpg)
 
@@ -553,7 +566,7 @@ theme: Scherzkeks, 1
 
 ^ It makes computer science very difficult and not easy to talk about.
 
-![](images/02-why/smartphones.jpg )
+![left](images/02-why/smartphones.jpg )
 # [fit] _70 years later_
 # **_Technology is complex_**
 
@@ -701,7 +714,7 @@ theme: Scherzkeks, 1
 
 ^ Just look at me. I wanted to be a policeman first, then a stock broker
 
-^ and today the coding kid became a programmer by watching TV.
+^ and today the coding kid became a programmer just by watching TV.
 
 ## [fit] Perspective
 
@@ -735,7 +748,7 @@ theme: Scherzkeks, 1
 ---
 ^ A drawbot.
 
-^ This is a toy that every kid starting with 4 years can build by themselves.
+^ This is a toy that every kid starting with 4 years can build by himself.
 ## [fit] Drawbot
 
 ---
@@ -775,7 +788,11 @@ theme: Scherzkeks, 1
 ![](images/03-how/makeymakey.jpg )
 
 ---
-^ When you close a circuit you virtually press a defined key
+^ When you two connected objects touch each other
+
+^ they close a circuit on the MakeyMakey
+
+^ and you virtually press a defined key
 
 ^ And what can you do with it?
 
@@ -825,7 +842,7 @@ theme: Scherzkeks, 1
 ---
 ^ You can use the app WONDER where everything is about exploring and adventures.
 
-^ You don't create programs but you solve missions by linking behaviors about lights, sound or movement.
+^ You don't create programs but you solve missions by using commands for light, sound or movement.
 
 ![fit](images/03-how/wonder-app.jpg)
 
@@ -848,10 +865,12 @@ theme: Scherzkeks, 1
 
 ^ You can of course buy it as a package for 80 EUR.
 
+^ What's so special about it ?
+
 ![](images/03-how/mbot.jpg)
 
 ---
-^ What's so special about it ? That the kid will assemble it.
+^ That the kid will assemble it.
 
 ^ Usuallly within 20mins
 
@@ -999,7 +1018,7 @@ theme: Scherzkeks, 1
 
 ^ forward, left, forward, right
 
-^ and let them refactor their code to something very beautiful.
+^ and let them reorganize their code
 
 ![](images/03-how/code-org/zombie.png)
 
@@ -1010,11 +1029,13 @@ theme: Scherzkeks, 1
 
 ^ Pick the pink loop block and place the repeating pattern inside.
 
-^ I love this moment. I explain that this is what a computer is for.
+^ I love this moment.
 
 ![fit](images/03-how/code-org/new/zombie-success.gif)
 
 ---
+^ I explain that this is what a computer is for.
+
 ^ The computer should repeat the boring stuff, it's not your task.
 
 ^ After an hour the kids should have internalized those block based commands...
@@ -1032,7 +1053,7 @@ theme: Scherzkeks, 1
 
 ^ It was invented by Mitchel Resnick at the MIT Media Lab in 2002.
 
-^ Scratch can be used as an application and online in the web browser through flash.
+^ Scratch can be used as an application or online in the web browser through flash.
 
 ^ The next version 3 is based on HTML5 and will be released this August.
 
@@ -1077,7 +1098,7 @@ theme: Scherzkeks, 1
 
 ^ It's programed in Scratch, will make use of MakeyMakey
 
-^ and is the reason for the sensational title of this talk
+^ and is the obvious reason for the sensational title of this talk
 
 ![fit](images/03-how/tinkering/screaming-carrot.jpg)
 
@@ -1111,9 +1132,7 @@ theme: Scherzkeks, 1
 # [fit] Digitalwerkstatt
 
 ---
-^ There are regular courses and one-off workshops for children from 5 to 14 years
-
-^ Their program is about coding, robotics, stop motion movies and exploring worlds in Minecraft.
+^ Their program is about coding with Scratch, Robotics, Stop Motion movies and exploring worlds in Minecraft.
 
 ^ If you want to try it, just drop them a mail like I did.
 
@@ -1214,6 +1233,8 @@ theme: Scherzkeks, 1
 ^ A stop-motion movie created in the Digitalwerkstatt
 
 ^ Where a lego kebap is stolen by a villain
+
+^ This is of course only a small part of it
 
 ![fill](images/04-where/kebap-heist.gif)
 
@@ -1342,9 +1363,11 @@ theme: Scherzkeks, 1
 ^ Thanks a lot for listening!
 
 # [fit] Thanks
+
+## About Coding Kids and Screaming Carrots.
 - by Georgios Kaleadis
 
-Slides & Linklist:
-_georgiee.github.io/coding-for-kids_
+
+### [fit] _georgiee.github.io/coding-for-kids_
 
 ![left](images/conclusion/happy-carrots.jpg)

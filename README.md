@@ -23,11 +23,6 @@ That's
 
 11. Let's have some fun with the carrot now.
 
-
-
-
-
-
 # About Coding Kids and Screaming Carrots
 
 ## Todos
@@ -45,17 +40,10 @@ That's
 + Makey Makey
 + Clicker Remote
 
-## Todo/Fixes
-+ Stage/Editor Schrift falsch bei Scratch
-
 ## Checklist
 1. Buy Drawbot Parts
-+ [ ] Check moderator being a robot.
-+ [ ] Fallback Video Modem
 + [ ] Fallback Video Carrot
-+ [ ] Ablauf Carrot planen (GoPro? Same Device?)
 + [ ] HDMI Cable problems check on macbook
-+ [ ] Check Volume Mode Example
 + [x] GIF Zombie Level
 + [x] Chapter Developer Mentor
 + [x] Replace crazy, guy and madness
@@ -65,9 +53,6 @@ That's
 ### Show Carrot
 1. Prepare everything in a box then reveeal?
 2. or quickly put everything together on stage ?
-
-
-
 
 My coding environment is called Scratch
 and I will show you more of it later in the talk.
