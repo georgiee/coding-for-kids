@@ -30,26 +30,14 @@ That's
 
 # About Coding Kids and Screaming Carrots
 
-## Feedback Nr. 1
-General:
-+ Past tense.
-+ Paar Folien bisschen länger stehen lassen zum wirken: Internet.
-
-Screaming Carrot
-+ Jeder fragt sich bestimmt warum Screaming
-+ super horse nicht verstandne- alternative? oder rauswerfen.
-
-
 ## Todos
-+ About Me Page
-+ Thank you Page
-+ Where to -> Better Mentoring
++ Make the page
++ Backup Video Carrot
++ Changes: Coding allows you to express yourself.
+
 + Screaming Carrot Fallback Video + Plan Stage (Feedback Hamburg Kamera?)
 + Workshop with mbot, drawbot, hour of code
 + Buy Drawbot Material
-+ GIF Zombie Level
-+ ✅ Emojis kids heads
-+ ✅ GIF Giga TV
 
 ## Conf Bag
 + Robot mbot
@@ -58,9 +46,7 @@ Screaming Carrot
 + Clicker Remote
 
 ## Todo/Fixes
-+ 28min ohne Karotte
 + Stage/Editor Schrift falsch bei Scratch
-+ Stupid Jokes example? (ENtertain the kid inside you)
 
 ## Checklist
 1. Buy Drawbot Parts
