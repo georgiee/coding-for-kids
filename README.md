@@ -1,81 +1,45 @@
-## Live Coding Notes
-That's
-
-1. Here you can see a carrot, a kitchen knife and the MakeyMakey board.
-
-2. The MakeyMakey has different contact points labelled with the corresponding key on the keyboard. That's the SPACE key contact.
-
-3. I will now connect the SPACE key to the carrot with this cable
-
-4. To close the circuit I want to use a knife which I will also connect to the MakeyMakey- this time to GROUND.
-
-5. Now let's connect the MakeyMakey to the computer with USB. All those lights tell us that it has turned on
-
-6. When I touch the carrot with the knife you see a green LED glowing on the MakeyMakey and also a visual appearing that I programed.
-
-7. This means everything is working. So let's make it scream.
-
-8. In Scratch I can detect when a key is being pressed. It's set to SPACE.
-
-9. I want to play a sound instead of showing the visual. So switch that.
-
-10. Now when I touch the carrot with the knife, MakeyMakey will tell the computer the SPACE key is pressed and Scratch will play a horrible screaming sound.
-
-11. Let's have some fun with the carrot now.
-
 # About Coding Kids and Screaming Carrots
+This is the reference sheet where you can find more information about my talk *About Coding Kids and Screaming Carrots* (JSConf 2018).
+I included my slides, sources of my inspiration, a linklist and my proposal fo this talk.
 
-## Todos
-+ Make the page
-+ Backup Video Carrot
-+ Changes: Coding allows you to express yourself.
+## Slides
+You can find the slides here as a PDF file.
+The file `slides.md` contains the full presentation in markdown format displayed through the Mac OSX app [Deckset](https://www.decksetapp.com/)
 
-+ Screaming Carrot Fallback Video + Plan Stage (Feedback Hamburg Kamera?)
-+ Workshop with mbot, drawbot, hour of code
-+ Buy Drawbot Material
+## Inspiration
+I read a lot to bake my gut feeling about the whole coding kids topic.
 
-## Conf Bag
-+ Robot mbot
-+ Some drawbots
-+ Makey Makey
-+ Clicker Remote
+### Combustion Engine
+The combustion engine comparison idea comes from this excellent talk by
+[Linda Liukas TEDxCERN](https://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers/transcript?language=en#t-197361)
 
-## Checklist
-1. Buy Drawbot Parts
-+ [ ] Fallback Video Carrot
-+ [ ] HDMI Cable problems check on macbook
-+ [x] GIF Zombie Level
-+ [x] Chapter Developer Mentor
-+ [x] Replace crazy, guy and madness
-+ [x] Emojis on Kids Faces
+### Auto Mechanic vs. Coder
+Source is this [npr.org](https://www.npr.org/sections/alltechconsidered/2014/01/25/266162832/computers-are-the-future-but-does-everyone-need-to-code) article
+and seems to be quoted by Jeff Atwood.
 
-## SHow Idas
-### Show Carrot
-1. Prepare everything in a box then reveeal?
-2. or quickly put everything together on stage ?
+### Exposure to technology
+My overall thesis about coding vs. technology is inspired by this great read [kidscodes.com](https://www.kidscodecs.com/teach-kids-programming-computer-science/)
 
-My coding environment is called Scratch
-and I will show you more of it later in the talk.
+### Consumer vs. Producer
+I read the book ["Program or be programed" by Rushkoff](https://www.amazon.de/Program-Be-Programmed-Commands-Digital) and ["Coding as a playground" by Marina Umaschi Bers](https://www.amazon.com/Coding-Playground-Programming-Computational-Childhood/dp/1138225622) they both mention the producer vs consumer approach that opened my eyes what's wrong about hanging in front of a smartphone all day as a kid.
 
-Now let's focus on the screaming carrot.
-Here I have a breadboard, a carrot, a kitchen knife and the MakeyMakey device.
+### Screaming Carrot
+That MakeyMakey idea comes from this [youtube video](https://www.youtube.com/watch?v=o4iTQ7lr2W0) ✌️
 
-1. The MakeyMakey has different contact points labelled with the simulated key it will press
-2. Here is the contact for the SPACE key.
-3. I will now connect the carrot to the SPACE key
-4. I want to close the circuit when I touch the carrot with the knife
-5. To do so I will connect to knife with the GROUND bar on the MakeyMakey
-6. Let's connect the MakeyMakey through USB. The blinking shows it's ready now
-7. If I touch the carrot with the knife you see a LED glowing at the SPACE contact
-8. I also prepared a visual that shows itself then
-8. This means everything is working. And what do we do with it?
-9. Let us cut the carrot and make it scream
-10. The ony thing to do is to play a horrible scream instead of showing the visual
-11. Let's assign a fitting sound
-12. And now start cutting the carrot.
+
+## ResourceS
++ [Origamizake - my Origami JS project](https://georgiee.github.io/origami/)
++ [derBauer - The Portal (2000)](http://www.derbauer.de/PAST/THE_PORTAL/)
++ [Digitalwerkstatt](http://www.digitalwerkstatt.de/)
++ [Mbot](http://www.makeblock.com/steam-kits/mbot)
++ [Scratch](https://scratch.mit.edu/)
++ [Hour of Code](https://hourofcode.com/us/learn)
++ [Hour of Code - Zombie level](https://studio.code.org/hoc/12)
++ [Drawbot - How to](https://www.youtube.com/watch?v=Dw1vx1gxEks)
 
 ## My Talk Proposal
-This was my accepted talk proposal.
+To help people getting started with their future proposals here is the one that got me into JSConf 2018.
+
 
 ### Title
 About Coding Kids and Screaming Carrots
@@ -98,34 +62,3 @@ Programed with Flash as a Freelancer for 15 years.
 Today I'm a Frontend developer for Angular & React
 In my spare time I teach coding to kids, love to tinker around with webgl and love to fold complex Origami.
 
-
-### Notes
-Top:
-- Alter der Kinder erwähnt
-- Slides
-- schön langsam gesprochen und deutlich
-- einfache sprache verwendet, sehr gut.
-- jokes
-- Banana Piano
-- Recap!!!
-
-
-
-Verbesserung
-OK - Madness & Crazy raus - trigger
-OK - Intro - about you fehlt
-OK - Kids pictures unerkennbar machen
-- Angela Merkel, who?
-OK - Gelbeschrift manchmal ohne schatten (Slides vereinheitlichen)
-OK- slide wo du sagst “add some guy” nehm person
-OK- Film bei coding blocks statt images
-- Holygrale anderes wort nutzen, ist sehr abgenutzt derzeit
-- Thanks slide mehr ausfüllen (mit Kontakt möglichkeiten und dazu sagen wenn jemand interesse hat einfach auf dich zu kommen etc.)
-
-
-ich erklär dann kurz das sinnerschrader eine agentur in deutschland ist mit mehreren standorten (auch einer in prag) das ich viele meetups mache
-
-
-
-## Notes
-coding, the new literacy
