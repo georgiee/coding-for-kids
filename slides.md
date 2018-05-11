@@ -200,7 +200,8 @@ theme: Scherzkeks, 1
 ^ But I forgot the name.
 
 ^ The week went by quickly.
-# [fit] **_I forgot the name_**
+# [fit] I forgot the name
+# 😔
 
 ---
 ^ It is Saturday
