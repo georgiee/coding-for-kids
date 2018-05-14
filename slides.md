@@ -212,7 +212,7 @@ theme: Scherzkeks, 1
 
 ^ Around lunch time..
 
-![](images/01-intro/saber-rider.gif)
+![](images/01-intro/saber-rider-small.gif)
 
 ---
 ^ I watched Giga TV again
@@ -295,7 +295,7 @@ theme: Scherzkeks, 1
 
 ^ I was soooo impressed back then I and wanted to program the same myself.
 
-![fill](images/01-intro/derbauer-theportal-long.gif )
+![fill](images/01-intro/derbauer-theportal-small.gif )
 
 ---
 ^ By the way just to remind you.
@@ -388,13 +388,13 @@ theme: Scherzkeks, 1
 
 ^ Right?
 
-![](images/02-why/combustion-engine.jpg )
+![](images/02-why/combustion-engine-small.jpg )
 # _**combustion engine**_
 
 ---
 ^ We can tell how the human body works.
 
-![](images/02-why/human-body.jpg )
+![](images/02-why/human-body-small.jpg )
 # _**human body**_
 
 ---
@@ -476,7 +476,7 @@ theme: Scherzkeks, 1
 ^ It goes like this:
 
 # [fit] _**The mechanic**_
-![](images/02-why/mechanic.jpg )
+![](images/02-why/mechanic-small.jpg )
 
 ---
 ^ It's sort of like an **obsession** with being an **auto mechanic**
@@ -772,7 +772,7 @@ theme: Scherzkeks, 1
 ^ Let's go to the next topic.
 
 ![left fill](images/03-how/drawbot-drawing.jpg )
-![right fill](images/03-how/drawbot.gif)
+![right fill](images/03-how/drawbot-small.gif)
 
 ---
 ^ A Makey Makey
@@ -838,7 +838,7 @@ theme: Scherzkeks, 1
 # [fit] Dash
 # &
 # [fit] Dot
-![left](images/03-how/dash-dot.gif)
+![left](images/03-how/dash-dot-small.gif)
 
 ---
 ^ You can use the app WONDER where everything is about exploring and adventures.
@@ -877,7 +877,7 @@ theme: Scherzkeks, 1
 
 ^ You can then start an automatic program, use an app or code your own program.
 
-![fill](images/03-how/mbot-build.gif)
+![fill](images/03-how/mbot-build-small.gif)
 
 ---
 ^ When you activate the autonomous driving mode.
@@ -886,7 +886,7 @@ theme: Scherzkeks, 1
 
 ^ to follow a line and avoid obstacles in front if it.
 
-![fill](images/03-how/mbot-line.gif)
+![fill](images/03-how/mbot-line-small.gif)
 
 ---
 ^ Let’s look how coding is being teached.
@@ -1010,7 +1010,7 @@ theme: Scherzkeks, 1
 
 ^ The pink one here.
 
-![](images/03-how/code-org/new/zombie-idiomatic.gif)
+![](images/03-how/code-org/new/zombie-idiomatic-small.gif)
 
 ---
 ^ I then show them the pattern of 4 blocks.
@@ -1023,7 +1023,7 @@ theme: Scherzkeks, 1
 
 ![](images/03-how/code-org/zombie.png)
 
-![inline](images/03-how/code-org/new/zombie-refactor.gif)
+![inline](images/03-how/code-org/new/zombie-refactor-small.gif)
 
 ---
 ^ And success! They usually just know what to do.
@@ -1032,7 +1032,7 @@ theme: Scherzkeks, 1
 
 ^ I love this moment.
 
-![fit](images/03-how/code-org/new/zombie-success.gif)
+![fit](images/03-how/code-org/new/zombie-success-small.gif)
 
 ---
 ^ I explain that this is what a computer is for.
@@ -1089,7 +1089,7 @@ theme: Scherzkeks, 1
 
 ^ And you can do funky stuff like this. ----> WAIT GIF
 
-![fit](images/03-how/scratch/new/coolcat.gif)
+![fit](images/03-how/scratch/new/coolcat-small.gif)
 
 
 ---
