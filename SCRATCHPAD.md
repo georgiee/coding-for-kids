@@ -1,3 +1,9 @@
+intro - -24
+why - 19
+how - 11
+after carrot -7
+the end -2
+
 ## Live Coding Notes
 That's
 

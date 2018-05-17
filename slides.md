@@ -86,15 +86,17 @@ theme: Scherzkeks, 1
 
 ^ Why? Because internet was not available to everyone.
 
+^ Could I use those CDs ?
+
 ![left fill](images/01-intro/pcwelt-cd.jpg)
 
 # [fit] Drivers
 # &
 # [fit] Patches
 ---
-^ Could I use those CDs ? Not at all.
+^ Not at all.
 
-^ As I didn't even owned a computer.
+^ I didn't even owned a computer yet.
 
 ![fit](images/01-intro/paperboard-computer.jpg)
 
@@ -699,7 +701,7 @@ theme: Scherzkeks, 1
 
 ^ Computer's are cheap nowadays.
 
-^ Even poor kids in every country can try it.
+^ Even poor kids can afford it.
 
 ## [fit] Chances
 
@@ -713,7 +715,7 @@ theme: Scherzkeks, 1
 ---
 ^ And coding gives your child another perspective about dreamjobs.
 
-^ Just look at me. I wanted to be a policeman first, then a stock broker
+^ Just look at me. I wanted to be a policeman first, then a stock broker because I was good in math
 
 ^ and today the coding kid became a programmer just by watching TV.
 
@@ -747,7 +749,7 @@ theme: Scherzkeks, 1
 ## [fit] _Tinkering_
 
 ---
-^ A drawbot.
+^ For example with a drawbot.
 
 ^ This is a toy that every kid starting with 4 years can build by himself.
 ## [fit] Drawbot
@@ -789,7 +791,7 @@ theme: Scherzkeks, 1
 ![](images/03-how/makeymakey.jpg )
 
 ---
-^ When you two connected objects touch each other
+^ When two connected objects touch each other
 
 ^ they close a circuit on the MakeyMakey
 
@@ -818,7 +820,7 @@ theme: Scherzkeks, 1
 ## [fit] _Robots_
 
 ---
-^ There are a lot of them out there.
+^ They are everythere
 
 ^ Many of them can be programmed with child friendly programming language.
 
