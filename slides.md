@@ -82,7 +82,7 @@ theme: Scherzkeks, 1
 ---
 ^ Most magazines had some CD attached.
 
-^ The ones about computers contained applications, demos, drivers & patches.
+^ The ones about computers contained applications, trials, drivers & patches.
 
 ^ Why? Because internet was not available to everyone.
 
@@ -160,14 +160,9 @@ theme: Scherzkeks, 1
 ---
 ^ I used a 56k modem to do so.
 
-^ This was slower than your throttled dataplan on your smartphone.
+^ Which was slower than your throttled dataplan on your smartphone today.
 
-^ Let's listen to the iconic sound for a quick flashback.
-
-^ After Video: I still can’t believe the internet worked back then.
-
-![left](https://www.youtube.com/watch?v=gsNaR6FRuO0)
-![right fit](images/01-intro/modem.jpg)
+![fit](images/01-intro/modem.jpg)
 
 ---
 ^ It's around April 1999.
@@ -193,7 +188,7 @@ theme: Scherzkeks, 1
 
 ^ But I had to hurry back to afternoon school and didn't write it down.
 
-^ After school I wanted to search for a demo version on all of my magazine cds.
+^ After school I wanted to search for a trial version on all of my magazine cds.
 
 # 😲
 # [fit] I was impressed
@@ -202,11 +197,13 @@ theme: Scherzkeks, 1
 ^ But I forgot the name.
 
 ^ The week went by quickly.
+
+^ It is Saturday
+
 # [fit] I forgot the name
 # 😔
 
 ---
-^ It is Saturday
 
 ^ This means getting up as early as possible
 
@@ -295,21 +292,9 @@ theme: Scherzkeks, 1
 
 ^ Yes this was a website.
 
-^ I was soooo impressed back then I and wanted to program the same myself.
+^ Stuff like this drove my ambition to get me where I am today.
 
 ![fill](images/01-intro/derbauer-theportal-small.gif )
-
----
-^ By the way just to remind you.
-
-^ The web without flash?
-
-^ It looked like this
-
-^ You can see here early websites of AOL, Yahoo, Google
-
-![inline fill](images/01-intro/old-aol.png) ![inline fill](images/01-intro/old-yahoo.jpg)
-![inline fill](images/01-intro/old-randompage.png) ![inline fill](images/01-intro/old-google.jpg)
 
 ---
 ^ So what's my point you're asking?
@@ -424,33 +409,12 @@ theme: Scherzkeks, 1
 -- everybody talks like this
 
 ---
-^ New York's former major Bloomberg even had a new year resolution promising to take coding courses.
-
-![fill](images/02-why/new-year-resolution.jpg )
-
----
-^ Germany's Bundeskanzlerin Angela Merkel is talking
-
-^ about coding as the new literacy for young people
-
-^ besides reading, writing and math.
-
-> "coding is the new literacy for young people"
--- Bundeskanzlerin Merkel, Digitalkonferenz, 2016 (liberally translated)
-
-![fit](images/02-why/merkel.jpg )
-
----
-^ All that shows that something is going on.
-
-^ That the world is concerned about the future of our kids.
+^ It's like people are concerned about the future of our kids.
 
 # [fit] Concerned
 
 ---
 ^ or that we fear that technology leaves us behind
-
-^ and that our kids should fix it.
 
 ^ No matter what, the demand is the same...
 
@@ -539,14 +503,6 @@ theme: Scherzkeks, 1
 # What do people actually mean with **_coding_** ?
 
 ---
-^ Let me go back some years
-
-^ To the moment the first programming language was invented
-
-# [fit] First
-# [fit] Programming Language
-
----
 ^ In 1943 Konrad Zuse built his famous Z3
 
 ^ And together with it the very first programming language called Plankalkuel
@@ -567,7 +523,7 @@ theme: Scherzkeks, 1
 
 ^ That’s a lot and very complex
 
-^ It makes computer science very difficult and not easy to talk about.
+^ It makes computer science not easy to talk about.
 
 ![left](images/02-why/smartphones.jpg )
 # [fit] _70 years later_
@@ -644,20 +600,6 @@ theme: Scherzkeks, 1
 ## [fit] _**no magic**_
 
 ![](images/02-why/magic.jpg)
-
-
----
-^ You do this by teaching not only coding.
-
-^ but also how the internet is functioning
-
-^ how a robot is controlled
-
-^ and you let them tinker around with electronics.
-
-## **_Learn Coding but also:_**
-## [fit] Internet, Robotics
-## [fit] Tinkering
 
 ---
 ^ Teaching Coding still makes sense
@@ -767,11 +709,7 @@ theme: Scherzkeks, 1
 
 ^ and start walking around drawing on the underlying surface
 
-^ This looks like real art in the end
-
-^ and is so much fun for the kids to watch their robot to be alive.
-
-^ Let's go to the next topic.
+^ It's so much fun for the kids to watch their robot to be alive.
 
 ![left fill](images/03-how/drawbot-drawing.jpg )
 ![right fill](images/03-how/drawbot-small.gif)
@@ -784,9 +722,7 @@ theme: Scherzkeks, 1
 ## [fit] Makey Makey
 
 ---
-^ It’s basically a board that pretends to be a computer keyboard.
-
-^ You use the alligator clips to connect conductive objects with it
+^ It’s basically an electronic board that pretends to be a computer keyboard.
 
 ![](images/03-how/makeymakey.jpg )
 
@@ -808,9 +744,7 @@ theme: Scherzkeks, 1
 
 ^ Take some play Dooh - which is suprisingly conductive
 
-^ Build your own game controller to move and jump.
-
-^ And finally switch from the keyboard to your own built device.
+^ and design your own game controller to move and jump.
 
 ![](images/03-how/tinkering/makey-markio.gif )
 
@@ -831,11 +765,9 @@ theme: Scherzkeks, 1
 ---
 ^ Say hello to Dash & Dot.
 
-^ Those are robots with many sensors
+^ Those are robots with many sensors, LEDs and speakers.
 
-^ and they can communicate with LEDs and speakers.
-
-^ They cost around 200 EUR
+^ Together they cost around 200 EUR
 
 # [fit] Dash
 # &
@@ -864,7 +796,7 @@ theme: Scherzkeks, 1
 ---
 ^ He's based on Arduino uno and OpenSource.
 
-^ This means you could create all parts yourself and use the software for free.
+^ This means you could theoretically create all parts yourself and use the software for free.
 
 ^ You can of course buy it as a package for 80 EUR.
 
@@ -875,7 +807,7 @@ theme: Scherzkeks, 1
 ---
 ^ That the kid will assemble it.
 
-^ Usuallly within 20mins
+^ Usually within 20mins
 
 ^ You can then start an automatic program, use an app or code your own program.
 
@@ -1019,8 +951,6 @@ theme: Scherzkeks, 1
 
 ^ forward, left, forward, right
 
-^ forward, left, forward, right
-
 ^ and let them reorganize their code
 
 ![](images/03-how/code-org/zombie.png)
@@ -1070,32 +1000,20 @@ theme: Scherzkeks, 1
 ![fill](images/03-how/scratch/scratch-gallery.png)
 
 ---
-^ Let's have a look inside.
-
-^ This is the start screen
+^ Let's have a look inside Scratch
 
 ^ 1. On the left you have a stage where everything will move around.
 
 ^ 2. And on the right you see the coding editor.
 
-^ That’s where the **code will be written**.
+^ That's where you code with colorful blocks
 
-![fit](images/03-how/scratch/app-01-annotated.jpg)
-
----
-^ Did I just say **written**? Nobody expects you to write a thing.
-
-^ Every available command can be dropped in.
-
-^ That is called block based programming.
-
-^ And you can do funky stuff like this. ----> WAIT GIF
+^ It's called block based programming.
 
 ![fit](images/03-how/scratch/new/coolcat-small.gif)
 
-
 ---
-^ To complete this section I brought you something special
+^ and to complete this section I brought you something special
 
 ^ > A screaming carrot <
 
@@ -1108,9 +1026,10 @@ theme: Scherzkeks, 1
 
 ---
 [.background-color: #fdc552]
-^ I have hopefully convinced you why coding matters and how to teach it by now.
 
-^ What’s left is the question where **everybody** could try teaching it.
+^ That was fun, wasn't it ?
+
+^ What’s left is the question where **everybody** could try teaching coding.
 
 # ~~1. Why it matters~~
 # ~~2. How to teach~~
@@ -1130,12 +1049,12 @@ theme: Scherzkeks, 1
 ---
 ^ I started teaching coding to kids in my spare time exactly one and a half year ago at Haba Digitalwerkstatt.
 
-^ They started in Berlin in 2016 and opened their office in Munich in 2017
+^ They started in Berlin in 2016 and opened an office in Munich in 2017
 
 # [fit] Digitalwerkstatt
 
 ---
-^ Their program is about coding with Scratch, Robotics, Stop Motion movies and exploring worlds in Minecraft.
+^ Their schedule is about coding with Scratch, Robotics, Stop Motion movies and exploring worlds in Minecraft.
 
 ^ If you want to try it, just drop them a mail like I did.
 
@@ -1164,7 +1083,7 @@ theme: Scherzkeks, 1
 ---
 ^ You won't believe it but designers, project managers or maybe your clients are eager to learn coding too.
 
-^ They will understand you better the next time you talk about bit & bytes
+^ They will have fun and understand you better the next time you talk about bits & bytes
 
 ^ .......BUT
 
@@ -1232,7 +1151,6 @@ theme: Scherzkeks, 1
 
 ---
 [.background-color: #fdc552]
-^ Why it matters, how to teach and where to teach.
 
 ^ You have a bag full of knowledge now. Use it.
 
@@ -1296,7 +1214,7 @@ theme: Scherzkeks, 1
 ## like **_Dash, Dot & mbot_**
 
 ---
-^ play the human robot and zombie games
+^ Play the human robot and some zombie games
 
 ^ to prepare the kids for coding in scratch
 
