@@ -19,7 +19,7 @@ theme: Scherzkeks, 1
 
 ^ I'm 34 years old
 
-^ and I live in Munich workign for Sinnerschrader as a Principal Frontend Developer
+^ and I live in Munich working for Sinnerschrader as a Principal Frontend Developer
 
 ^ In my spare time I teach coding to kids
 
@@ -1229,17 +1229,6 @@ theme: Scherzkeks, 1
 ^ about all the funny ideas they had!
 
 # [fit] Fun
-
----
-^ For example the kebap heist
-
-^ A stop-motion movie created in the Digitalwerkstatt
-
-^ Where a lego kebap is stolen by a villain
-
-^ This is of course only a small part of it
-
-![fill](images/04-where/kebap-heist.gif)
 
 ---
 [.background-color: #fdc552]
