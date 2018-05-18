@@ -34,11 +34,11 @@ theme: Scherzkeks, 1
 + Origami addicted
 
 ---
-^ ...after Takeshi taught it to me in front of Osaka castle two years ago.
+^ ...since Takeshi taught it to me in front of Osaka castle two years ago.
 
-^ Today I fold every day and I also created
+^ Today I fold nearly every day
 
-^ a project about virtual origami folding
+^ and I also created a project about virtual origami folding
 
 ![fit](images/about.jpg)
 
@@ -158,16 +158,26 @@ theme: Scherzkeks, 1
 # [fit] Internet
 
 ---
-^ I used a 56k modem to do so.
+^ I had a 56k modem to connect.
 
-^ Which was slower than your throttled dataplan on your smartphone today.
+^ Which was slower than your throttled dataplan on your smartphone.
+
+^ Let's listen to the iconic sound for a quick flashback.
+
+^ After Video: I still can’t believe the internet worked back then.
+
+![left](https://www.youtube.com/watch?v=gsNaR6FRuO0)
+![right fit](images/01-intro/modem.jpg)
+
 
 ![fit](images/01-intro/modem.jpg)
 
 ---
-^ It's around April 1999.
+^ Some day in April 1999.
 
-^ My favourite tv station about games and computers is **NBC Giga**
+^ I was watching my favourite tv station **NBC Giga**
+
+^ Where they talk about games and computers
 
 ^ This particular day two guys were showing a new application
 
@@ -175,7 +185,7 @@ theme: Scherzkeks, 1
 
 
 ---
-^ They animated a red ball bouncing around.
+^ They let a red ball bounce around.
 
 ^ It must have looked like this.
 
@@ -259,7 +269,7 @@ theme: Scherzkeks, 1
 
 ^ A timeline, some layers and tools.
 
-^ And of course the stage where you can see a red ball bouncing around
+^ And of course the stage where you can see things move around
 
 ![fit](images/01-intro/flash4-stage.jpg )
 
@@ -275,7 +285,7 @@ theme: Scherzkeks, 1
 
 ^ I was so good in programming this thing...
 
-![inline](images/01-intro/yugop-nakamura.jpg )
+# [fit] Yugop Navigation
 ![inline fill](images/01-intro/yugop-menu.gif )
 
 ---
@@ -655,15 +665,6 @@ theme: Scherzkeks, 1
 ## [fit] Diversity
 
 ---
-^ And coding gives your child another perspective about dreamjobs.
-
-^ Just look at me. I wanted to be a policeman first, then a stock broker because I was good in math
-
-^ and today the coding kid became a programmer just by watching TV.
-
-## [fit] Perspective
-
----
 [.background-color: #fdc552]
 ^ I hope I have convinced you by now why teaching coding matters
 
@@ -708,6 +709,8 @@ theme: Scherzkeks, 1
 ^ When activated the robot will vibrate
 
 ^ and start walking around drawing on the underlying surface
+
+^ This looks like real art in the end
 
 ^ It's so much fun for the kids to watch their robot to be alive.
 
@@ -910,8 +913,6 @@ theme: Scherzkeks, 1
 ![fill](images/03-how/hoc-overview.png)
 
 ---
-^ Ok let's play a game
-
 ^ I usually pick a labyrinth style game to follow up with the human robot example.
 
 ^ This is the Zombie Level where a zombie has to be guided to his favorite food.
@@ -942,12 +943,12 @@ theme: Scherzkeks, 1
 
 ^ They can’t even complete the level as they are forced to use a new block.
 
-^ The pink one here.
+^ The pink one here which is used to repeat commands.
 
 ![](images/03-how/code-org/new/zombie-idiomatic-small.gif)
 
 ---
-^ I then show them the pattern of 4 blocks.
+^ I then show them the pattern of 4 blocks they can repeat instead of the huge list.
 
 ^ forward, left, forward, right
 
@@ -1008,7 +1009,7 @@ theme: Scherzkeks, 1
 
 ^ That's where you code with colorful blocks
 
-^ It's called block based programming.
+^ This is called block based programming.
 
 ![fit](images/03-how/scratch/new/coolcat-small.gif)
 
@@ -1064,7 +1065,7 @@ theme: Scherzkeks, 1
 ## [fit] Hour of Code
 ^ You could also host an Hour of Code event
 
-^ Where you play games and explain the basics of programming to interested people
+^ Where you play games like the zombie game and explain the basics of programming to interested people
 
 ---
 ^ You might even find some Hour of Code in your hometown.
@@ -1143,9 +1144,9 @@ theme: Scherzkeks, 1
 ---
 ^ Working with kids is fun.
 
-^ I had an amazing time and I was surprised
+^ I always have an amazing time and I'm still surprised
 
-^ about all the funny ideas they had!
+^ about all the funny ideas they have!
 
 # [fit] Fun
 
@@ -1173,24 +1174,23 @@ theme: Scherzkeks, 1
 ## [fit] exposure
 
 ---
-^ ...it's about the big picture and connecting the lines between technologies
+^ ...to see the big picture and connecting the lines between technologies
 
 ## [fit] big picture
 
 ---
-^ ...it's about giving chances. Computer's are cheap so many can afford it.
+^ ...Coding is about giving chances and diversity.
 
+^ Computers don't care who you are and are cheap so many can afford it.
+
+## [fit] diversity &
 ## [fit] chances
 
 ---
-^ ...it's about diversity. No computer cares who you are.
+^ and coding boosts your creativity and learns a thinking useful in all domains
 
-## [fit] diversity
-
----
-^ And it boosts creativity and learns a thinking useful in all domains
-
-## [fit] creativity
+## [fit] creativity &
+## [fit] thinking
 
 ---
 [.background-color: #fdc552]
@@ -1200,7 +1200,7 @@ theme: Scherzkeks, 1
 ---
 ^ By building Drawbots
 
-^ and using MakeyMakey to make carrots scream
+^ and using a MakeyMakey to make carrots scream
 
 ## [fit] Tinkering
 ## [fit] with **_Makey Makey and Drawbot_**
@@ -1214,9 +1214,11 @@ theme: Scherzkeks, 1
 ## like **_Dash, Dot & mbot_**
 
 ---
-^ Play the human robot and some zombie games
+^ And finally let the kids play the human robot game
 
-^ to prepare the kids for coding in scratch
+^ followed by some zombie mazes
+
+^ to prepare them for coding in Scratch
 
 ^ where they can unleash their creativity
 
