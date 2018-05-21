@@ -1179,14 +1179,18 @@ theme: Scherzkeks, 1
 ## [fit] big picture
 
 ---
-^ Coding still makes sense
+^ ...Coding is about giving chances and diversity.
 
 ^ Computers don't care who you are and are cheap so many can afford it.
 
-^ It also boosts your creativity and learns a thinking useful in all domains
+## [fit] diversity &
+## [fit] chances
 
-## [fit] Coding useful
-## diversity, chances, creativity, thinking
+---
+^ and coding boosts your creativity and learns a thinking useful in all domains
+
+## [fit] creativity &
+## [fit] thinking
 
 ---
 [.background-color: #fdc552]
@@ -1229,19 +1233,24 @@ theme: Scherzkeks, 1
 
 ---
 ^ At Digitalwerkstatt, the place I started with locations around germany
-^ or host or join an hour of code event.
 
 # [fit] Digitalwerkstatt
-# &
-# [fit] Hour of Code
+
 
 ---
-^ Don't forget you can always start teaching your family at home
-^ or make your designers happy by teaching them a bit about coding.
+^ Host or join an hour of code event
 
-## [fit] Home
-## &
-## [fit] office
+## [fit] Hour of Code
+
+---
+^ Don't forget you can always start teaching at home.
+
+## [fit] At Home
+
+---
+^ And make your designer's happy by teaching them a bit about coding.
+
+## [fit] Office
 
 ---
 [.background-color: #fdc552]
