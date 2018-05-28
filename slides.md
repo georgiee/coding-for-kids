@@ -1,5 +1,4 @@
 theme: Scherzkeks, 1
-[.header: text-scale(0.5)]
 
 ^ Welcome to my talk
 
@@ -10,7 +9,7 @@ theme: Scherzkeks, 1
 ^ I hope you enjoy it.
 
 # About
-# [fit] Coding Kids
+# [fit] _**Coding Kids**_
 ## and
 # [fit] _**Screaming Carrots**_
 
@@ -1229,7 +1228,8 @@ theme: Scherzkeks, 1
 
 ---
 ^ At Digitalwerkstatt, the place I started with locations around germany
-^ or host or join an hour of code event.
+
+^ or you decide to host or join an hour of code event.
 
 # [fit] Digitalwerkstatt
 # &
@@ -1237,7 +1237,8 @@ theme: Scherzkeks, 1
 
 ---
 ^ Don't forget you can always start teaching your family at home
-^ or make your designers happy by teaching them a bit about coding.
+
+^ and also make your designers happy by teaching them a bit about coding.
 
 ## [fit] Home
 ## &
@@ -1264,13 +1265,14 @@ theme: Scherzkeks, 1
 ^ You can find the slides and linklist under this URL.
 
 ^ Thanks a lot for listening!
+## About Coding Kids and Screaming Carrots
 
-# [fit] Thanks
-
-## About Coding Kids and Screaming Carrots.
-- by Georgios Kaleadis
-
+# [fit] *__Thanks__*
 
 ### [fit] _georgiee.github.io/coding-for-kids_
+@deluxee (Twitter)
+@georgiee (Github)
+
 
 ![left](images/conclusion/happy-carrots.jpg)
+

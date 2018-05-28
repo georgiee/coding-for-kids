@@ -1,9 +1,9 @@
 # About Coding Kids and Screaming Carrots
 This is the reference sheet where you can find more information about my talk *About Coding Kids and Screaming Carrots* (JSConf 2018).
-I included my slides, sources of my inspiration, a linklist and my proposal fo this talk.
+It includes my slides, sources of my inspiration, a linklist and my proposal fo this talk.
 
 ## Slides
-You can find the slides here as a PDF file.
+You can find the slides [here](slides.pdf) as a PDF file.
 The file `slides.md` contains the full presentation in markdown format displayed through the Mac OSX app [Deckset](https://www.decksetapp.com/)
 
 ## Inspiration

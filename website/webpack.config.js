@@ -8,9 +8,6 @@ const dist = path.resolve(__dirname, "../gh-pages");
 
 
 module.exports = {
-  resolve: {
-    extensions: ['.json', '.*']
-  },
   output: {
     path: dist,
   },
