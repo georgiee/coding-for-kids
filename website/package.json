@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "start": "webpack-dev-server --mode development --",
-    "build": "NODE_ENV=production webpack --mode production"
+    "build": "NODE_ENV=production webpack --mode production",
+    "deploy": "pushd ../ && cp slides-export.pdf ./dist && ./push-gh-pages.sh"
   },
   "keywords": [],
   "author": "",

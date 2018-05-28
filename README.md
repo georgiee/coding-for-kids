@@ -3,7 +3,7 @@ This is the reference sheet where you can find more information about my talk *A
 It includes my slides, sources of my inspiration, a linklist and my proposal fo this talk.
 
 ## Slides
-You can find the slides [here](slides.pdf) as a PDF file.
+You can find the slides [here](slides-export.pdf) as a PDF file.
 The file `slides.md` contains the full presentation in markdown format displayed through the Mac OSX app [Deckset](https://www.decksetapp.com/)
 
 ## Inspiration
