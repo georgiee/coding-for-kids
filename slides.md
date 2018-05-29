@@ -176,9 +176,9 @@ theme: Scherzkeks, 1
 
 ^ I was watching my favourite tv station **NBC Giga**
 
-^ Where they talk about games and computers
+^ They usually talked about games and computers all day long.
 
-^ This particular day two guys were showing a new application
+^ This particular day two guys were showing a brand new application
 
 ![fill](images/01-intro/giga/giga-george-jochen-2.jpg)
 
@@ -195,7 +195,7 @@ theme: Scherzkeks, 1
 
 ^ They mentioned the name of the application.
 
-^ But I had to hurry back to afternoon school and didn't write it down.
+^ But I had to hurry back for afternoon classes and didn't write it down.
 
 ^ After school I wanted to search for a trial version on all of my magazine cds.
 
@@ -244,7 +244,7 @@ theme: Scherzkeks, 1
 ![fill](images/01-intro/homer-excited.gif )
 
 ---
-^ There it was.
+^ There it was on the TV screen
 
 ![fill](images/01-intro/homer-happy-2.gif )
 
@@ -257,7 +257,7 @@ theme: Scherzkeks, 1
 [.header: text-scale(0.5)]
 ^ This moment just now?
 
-^ This was the genesis of my programming career.
+^ This was the genesis of my whole programming career.
 
 # [fit] Genesis
 ## of my
@@ -388,7 +388,7 @@ theme: Scherzkeks, 1
 # _**combustion engine**_
 
 ---
-^ We can tell how the human body works.
+^ We can even tell how the human body works.
 
 ![](images/02-why/human-body-small.jpg )
 # _**human body**_
@@ -621,14 +621,6 @@ theme: Scherzkeks, 1
 ## still makes sense
 
 ---
-^ It stretches your mind
-
-^ and it creates a thinking which is useful in all domains.
-
-> "Learning to write programs **_stretches your mind_**.."
--- Bill Gates
-
----
 ^ As a coder
 
 ^ you make the transition from being a consumer to a producer
@@ -637,6 +629,14 @@ theme: Scherzkeks, 1
 
 ## [fit] **_be a producer_**
 ## not a consumer
+
+---
+^ It stretches your mind
+
+^ and it creates a thinking which is useful in all domains.
+
+> "Learning to write programs **_stretches your mind_**.."
+-- Bill Gates
 
 ---
 ^ The room for creativity is endless.
@@ -693,10 +693,11 @@ theme: Scherzkeks, 1
 ---
 ^ For example with a drawbot.
 
-^ This is a toy that every kid starting with 4 years can build by himself.
 ## [fit] Drawbot
 
 ---
+^ This is a toy that every kid starting with 4 years can build by himself.
+
 ^ The parts cost less than 2 EUR
 
 ^ You have three legs made of pens, a battery and a rotating motor.
@@ -832,6 +833,7 @@ theme: Scherzkeks, 1
 ^ Analog activity, playing games and dive into the actual coding experience.
 
 ## [fit] Coding
+## [fit] Analog, Games, Coding
 
 ---
 ^ Let's look at the analog activity.
@@ -873,7 +875,7 @@ theme: Scherzkeks, 1
 
 ^ They should have said turn right - a quarter.
 
-^ While spinning around, somebody will hopefully scream a `stooooop` to the desperate robot
+^ While spinning around, somebody will hopefully scream a releasing `stooooop` to the desperate robot
 
 ![fill](images/03-how/robot-daleks-spin.gif)
 
@@ -902,7 +904,7 @@ theme: Scherzkeks, 1
 ^ Everybody is encouraged to try it out.
 
 ## [fit] Hour of Code
-## **_one-hour tutorials_**
+## **_one-hour games & tutorials_**
 
 ---
 ^ The games are themed after kid’s darlings like Ice Princess Elsa, Minecraft or Angry Birds.
@@ -995,7 +997,7 @@ theme: Scherzkeks, 1
 ---
 ^ Everything you code can be shared on the Scratch website
 
-^ and remixed by others as the `source code` is always accessible.
+^ and remixed by others as the source code is always accessible.
 
 ![fill](images/03-how/scratch/scratch-gallery.png)
 
@@ -1008,12 +1010,12 @@ theme: Scherzkeks, 1
 
 ^ That's where you code with colorful blocks
 
-^ This is called block based programming.
+^ This is called block based programming and very easy to understand by children.
 
 ![fit](images/03-how/scratch/new/coolcat-small.gif)
 
 ---
-^ and to complete this section I brought you something special
+^ To complete this section I brought you something special
 
 ^ > A screaming carrot <
 
@@ -1085,7 +1087,9 @@ theme: Scherzkeks, 1
 
 ^ They will have fun and understand you better the next time you talk about bits & bytes
 
-^ .......BUT
+^ .......Okay. Enough about how, why and where to teach coding.
+
+^ There is another important thing we didn't talk about yet.
 
 # [fit] office
 
@@ -1165,15 +1169,14 @@ theme: Scherzkeks, 1
 
 ---
 ^ it was never about coding only.
-## It was never about **_coding_** only
 
----
-^ ... it's about being exposed to technology, computer science and programming.
+^ but about being exposed to technology, computer science and programming.
 
 ## [fit] exposure
+## [fit] to technology
 
 ---
-^ ...to see the big picture and connecting the lines between technologies
+^ So you can see the big picture and connecting the lines between technologies
 
 ## [fit] big picture
 
