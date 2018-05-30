@@ -1,3 +1,8 @@
+# Checklist
++ Switch Sound Output
++ Start Scratch in Fullscreen, overlayd by presentation
++ Remove MakeyMakey after demo, SPACE key is dangerous
+
 intro - -24
 why - 19
 how - 11

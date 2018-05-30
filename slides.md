@@ -37,14 +37,14 @@ theme: Scherzkeks, 1
 
 ^ Today I fold nearly every day
 
-^ and I also created a project about virtual origami folding
+^ and I also created a JavaScript project about virtual origami folding
 
 ![fit](images/about.jpg)
 
 ---
 [.background-color: #fdc552]
 
-^ Let's start.
+^ Ok let's start.
 
 ^ First some nostalgia fun with me as the coding kid.
 
@@ -757,8 +757,6 @@ theme: Scherzkeks, 1
 ## [fit] _Robots_
 
 ---
-^ They are everythere
-
 ^ Many of them can be programmed with child friendly programming language.
 
 ^ Let me show you some.
@@ -1147,7 +1145,7 @@ theme: Scherzkeks, 1
 ---
 ^ Working with kids is fun.
 
-^ I always have an amazing time and I'm still surprised
+^ I always had an amazing time and I'm still surprised
 
 ^ about all the funny ideas they have!
 
@@ -1165,27 +1163,28 @@ theme: Scherzkeks, 1
 ---
 [.background-color: #fdc552]
 ^ Coding matters because..
+
 # [fit] _1. Coding matters_
 
 ---
 ^ it was never about coding only.
 
-^ but about being exposed to technology, computer science and programming.
+^ but being exposed to technology, computer science and programming.
 
 ## [fit] exposure
 ## [fit] to technology
 
 ---
-^ So you can see the big picture and connecting the lines between technologies
+^ So kids can see the big picture and connecting the lines between technologies
 
 ## [fit] big picture
 
 ---
-^ Coding still makes sense
+^ But coding still makes sense!
 
-^ Computers don't care who you are and are cheap so many can afford it.
+^ Computers don't care who you are and are cheap, so many can afford it.
 
-^ It also boosts your creativity and learns a thinking useful in all domains
+^ Coding boosts your creativity and learns a thinking useful in all domains
 
 ## [fit] Coding useful
 ## diversity, chances, creativity, thinking
@@ -1193,12 +1192,13 @@ theme: Scherzkeks, 1
 ---
 [.background-color: #fdc552]
 ^ You know how to do it.
+
 # [fit] _2. You know how_
 
 ---
 ^ By building Drawbots
 
-^ and using a MakeyMakey to make carrots scream
+^ and using a MakeyMakey to make carrots scream for example.
 
 ## [fit] Tinkering
 ## [fit] with **_Makey Makey and Drawbot_**
@@ -1241,7 +1241,7 @@ theme: Scherzkeks, 1
 ---
 ^ Don't forget you can always start teaching your family at home
 
-^ and also make your designers happy by teaching them a bit about coding.
+^ or make your office happy by teaching people a bit about coding.
 
 ## [fit] Home
 ## &
