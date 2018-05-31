@@ -2,9 +2,13 @@
 This is the reference sheet where you can find more information about my talk *About Coding Kids and Screaming Carrots* (JSConf 2018).
 It includes my slides, sources of my inspiration, a linklist and my proposal fo this talk.
 
+![](images/screaming-carrots.gif)
+
 ## Slides
 You can find the slides [here](slides-export.pdf) as a PDF file.
-The file `slides.md` contains the full presentation in markdown format displayed through the Mac OSX app [Deckset](https://www.decksetapp.com/)
+The file [slides.md](slides.md) contains the full presentation in markdown format displayed through the Mac OSX app [Deckset](https://www.decksetapp.com/)
+
+The scratch project is available on [scratch.mit.edu](https://scratch.mit.edu/projects/226757145/) or download it from [here](scratch/live-coding.sb2)
 
 ## Inspiration
 I read a lot to bake my gut feeling about the whole coding kids topic.
@@ -14,11 +18,10 @@ The combustion engine comparison idea comes from this excellent talk by
 [Linda Liukas TEDxCERN](https://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers/transcript?language=en#t-197361)
 
 ### Auto Mechanic vs. Coder
-Source is this [npr.org](https://www.npr.org/sections/alltechconsidered/2014/01/25/266162832/computers-are-the-future-but-does-everyone-need-to-code) article
-and seems to be quoted by Jeff Atwood.
+Source is this [npr.org](https://www.npr.org/sections/alltechconsidered/2014/01/25/266162832/computers-are-the-future-but-does-everyone-need-to-code) article and seems to quote by Jeff Atwood.
 
 ### Exposure to technology
-My overall thesis about coding vs. technology is inspired by this great read [kidscodes.com](https://www.kidscodecs.com/teach-kids-programming-computer-science/)
+My overall thesis about coding vs. technology is inspired by this great read at [kidscodes.com](https://www.kidscodecs.com/teach-kids-programming-computer-science/)
 
 ### Consumer vs. Producer
 I read the book ["Program or be programed" by Rushkoff](https://www.amazon.de/Program-Be-Programmed-Commands-Digital) and ["Coding as a playground" by Marina Umaschi Bers](https://www.amazon.com/Coding-Playground-Programming-Computational-Childhood/dp/1138225622) they both mention the producer vs consumer approach that opened my eyes what's wrong about hanging in front of a smartphone all day as a kid.
@@ -27,15 +30,16 @@ I read the book ["Program or be programed" by Rushkoff](https://www.amazon.de/Pr
 That MakeyMakey idea comes from this [youtube video](https://www.youtube.com/watch?v=o4iTQ7lr2W0) ✌️
 
 
-## ResourceS
-+ [Origamizake - my Origami JS project](https://georgiee.github.io/origami/)
+## Resources
 + [derBauer - The Portal (2000)](http://www.derbauer.de/PAST/THE_PORTAL/)
 + [Digitalwerkstatt](http://www.digitalwerkstatt.de/)
 + [Mbot](http://www.makeblock.com/steam-kits/mbot)
 + [Scratch](https://scratch.mit.edu/)
++ [Dash & Dot](https://www.makewonder.de/dash/)
 + [Hour of Code](https://hourofcode.com/us/learn)
 + [Hour of Code - Zombie level](https://studio.code.org/hoc/12)
 + [Drawbot - How to](https://www.youtube.com/watch?v=Dw1vx1gxEks)
++ [Origamizake - my Origami JS project](https://georgiee.github.io/origami/)
 
 ## My Talk Proposal
 To help people getting started with their future proposals here is the one that got me into JSConf 2018.
