@@ -178,7 +178,7 @@ theme: Scherzkeks, 1
 
 ^ They usually talked about games and computers all day long.
 
-^ This particular day two guys were showing a brand new application
+^ This particular day two guys were showing a brand new application for animations
 
 ![fill](images/01-intro/giga/giga-george-jochen-2.jpg)
 
@@ -268,7 +268,7 @@ theme: Scherzkeks, 1
 
 ^ A timeline, some layers and tools.
 
-^ And of course the stage where you can see things move around
+^ And of course the stage where move things around
 
 ![fit](images/01-intro/flash4-stage.jpg )
 
@@ -631,7 +631,7 @@ theme: Scherzkeks, 1
 ## not a consumer
 
 ---
-^ It stretches your mind
+^ Coding stretches your mind
 
 ^ and it creates a thinking which is useful in all domains.
 
@@ -700,7 +700,7 @@ theme: Scherzkeks, 1
 
 ^ The parts cost less than 2 EUR
 
-^ You have three legs made of pens, a battery and a rotating motor.
+^ You have a cup with three legs made of pens, a battery and a rotating motor.
 
 
 ![fit](images/03-how/drawbot.jpg )
@@ -776,7 +776,7 @@ theme: Scherzkeks, 1
 ![left](images/03-how/dash-dot-small.gif)
 
 ---
-^ You can use the app WONDER where everything is about exploring and adventures.
+^ To play with the robots you can use the app WONDER where everything is about exploring and adventures.
 
 ^ You don't create programs but you solve missions by using commands for light, sound or movement.
 
