@@ -1,0 +1,43 @@
+html {
+  font-size: 62.5%; }
+
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: #d0286a;
+  color: #ffffff;
+  font-size: 1.6rem;
+  margin: 0;
+  padding: 20px;
+  line-height: 140%; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Amatic SC', cursive;
+  line-height: 120%;
+  margin: 0; }
+
+h1 {
+  font-size: 4rem; }
+  @media screen and (min-width: 700px) {
+    h1 {
+      font-size: 8rem;
+      line-height: 90%; } }
+
+h2 {
+  font-size: 3rem; }
+  @media screen and (min-width: 700px) {
+    h2 {
+      font-size: 6rem; } }
+
+h3 {
+  font-size: 2rem;
+  font-weight: 400;
+  font-family: 'Roboto Condensed', sans-serif; }
+
+a {
+  color: inherit;
+  color: #fdcd6c; }
+
+.kids-container {
+  max-width: 700px;
+  margin: auto; }
+
