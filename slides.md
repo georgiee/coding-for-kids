@@ -18,17 +18,17 @@ theme: Scherzkeks, 1
 
 ^ I'm 34 years old
 
-^ and I live in Munich working for Sinnerschrader as a Principal Frontend Developer
+^ I live in Munich and work for Sinnerschrader as a Frontend Developer
 
 ^ In my spare time I teach coding to kids
 
-^ which inspired me so much that it brought me to this stage today.
+^ which is the inspiration for this talk today.
 
 ^ I'm also Origami addicted...
 
 # [fit] Georgios Kaleadis
 + Living in Munich, born 1984
-+ Principal Frontend Developer for Sinnerschrader
++ Frontend Developer for Sinnerschrader
 + Kids Coding Trainer
 + Origami addicted
 
@@ -37,7 +37,7 @@ theme: Scherzkeks, 1
 
 ^ Today I fold nearly every day
 
-^ and I also created a JavaScript project about virtual origami folding
+^ and I also created a JavaScript project about virtual origami folding in 3D
 
 ![fit](images/about.jpg)
 
@@ -53,7 +53,7 @@ theme: Scherzkeks, 1
 # [fit] *The coding kid*
 
 ---
-^ To make sure you have some inner picture. That's me. I'm ten years old.
+^ To make sure you have a proper inner picture. That's me. I'm ten years old.
 
 ![left](images/01-intro/me.jpg)
 # [fit] That's me
@@ -159,7 +159,7 @@ theme: Scherzkeks, 1
 ---
 ^ I had a 56k modem to connect.
 
-^ Which was slower than your throttled dataplan on your smartphone.
+^ Which was slower than your throttled dataplan on your smartphone today.
 
 ^ Let's listen to the iconic sound for a quick flashback.
 
@@ -172,7 +172,7 @@ theme: Scherzkeks, 1
 ![fit](images/01-intro/modem.jpg)
 
 ---
-^ Some day in April 1999.
+^ It is some random day in April 1999.
 
 ^ I was watching my favourite tv station **NBC Giga**
 
@@ -268,7 +268,7 @@ theme: Scherzkeks, 1
 
 ^ A timeline, some layers and tools.
 
-^ And of course the stage where move things around
+^ And of course the stage where things move around
 
 ![fit](images/01-intro/flash4-stage.jpg )
 
@@ -667,7 +667,7 @@ theme: Scherzkeks, 1
 [.background-color: #fdc552]
 ^ I hope I have convinced you by now why teaching coding matters
 
-^ So let me show you some possibilities how to teach kids about technology and computer science.
+^ So let me show you some possibilities how to teach coding.
 
 # ~~1. Why it matters~~
 # [fit] _2. how to teach_
@@ -753,11 +753,11 @@ theme: Scherzkeks, 1
 
 ---
 [.background-color: #fdc552]
-^ Programable Robots!
+^ Our next tool are robots
 ## [fit] _Robots_
 
 ---
-^ Many of them can be programmed with child friendly programming language.
+^ Many of them can be programmed with a child friendly programming language.
 
 ^ Let me show you some.
 
@@ -839,7 +839,7 @@ theme: Scherzkeks, 1
 ^ If you want to control a robot you have to behave like a robot first.
 
 ^ So let's play the human robot game.
-
+## Analog activity
 ## [fit] The Human Robot
 
 ---
@@ -912,7 +912,7 @@ theme: Scherzkeks, 1
 ![fill](images/03-how/hoc-overview.png)
 
 ---
-^ I usually pick a labyrinth style game to follow up with the human robot example.
+^ I usually pick a maze style game to follow up with the human robot example.
 
 ^ This is the Zombie Level where a zombie has to be guided to his favorite food.
 
@@ -951,7 +951,7 @@ theme: Scherzkeks, 1
 
 ^ forward, left, forward, right
 
-^ and let them reorganize their code
+^ and point them to the pink repeating block.
 
 ![](images/03-how/code-org/zombie.png)
 
@@ -961,6 +961,8 @@ theme: Scherzkeks, 1
 ^ And success! They usually just know what to do.
 
 ^ Pick the pink loop block and place the repeating pattern inside.
+
+^ The huge list from before is now a small and beautiful block of code.
 
 ^ I love this moment.
 
@@ -1019,8 +1021,6 @@ theme: Scherzkeks, 1
 
 ^ It's programed in Scratch, will make use of MakeyMakey
 
-^ and is the obvious reason for the sensational title of this talk
-
 ![fit](images/03-how/tinkering/screaming-carrot.jpg)
 
 
@@ -1051,6 +1051,7 @@ theme: Scherzkeks, 1
 
 ^ They started in Berlin in 2016 and opened an office in Munich in 2017
 
+# Haba
 # [fit] Digitalwerkstatt
 
 ---
