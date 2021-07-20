@@ -1,6 +1,5 @@
 # About Coding Kids and Screaming Carrots
-This is the reference sheet where you can find more information about my talk *About Coding Kids and Screaming Carrots* (JSConf 2018).
-It includes my slides, sources of my inspiration, a linklist and my proposal fo this talk.
+This is the reference sheet where you can find more information about my talk [*About Coding Kids and Screaming Carrots* (JSConf 2018)](https://www.youtube.com/watch?v=t0m5rrKKMOA). It includes my slides, sources of my inspiration, a linklist and my proposal fo this talk.
 
 ![](images/screaming-carrots.gif)
 
